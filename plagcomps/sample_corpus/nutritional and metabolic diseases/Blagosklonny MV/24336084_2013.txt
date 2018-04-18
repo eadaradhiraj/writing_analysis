@@ -1,0 +1,141 @@
+TOR-centric view on insulin resistance and diabetic complications: perspective for endocrinologists and gerontologists. by Blagosklonny MV
+This article is addressed to endocrinologists treating patients with diabetic complications as well as to basic scientists studying an elusive link between diseases and aging. It answers some challenging questions. What is the link between insulin resistance (IR), cellular aging and diseases? Why complications such as retinopathy may paradoxically precede the onset of type II diabetes. Why intensive insulin therapy may initially worsen retinopathy. How nutrient- and insulin-sensing mammalian target of rapamycin (mTOR) pathway can drive insulin resistance and diabetic complications. And how rapamycin, at rational doses and schedules, may prevent IR, retinopathy, nephropathy and beta-cell failure, without causing side effects.
+
+
+
+
+Glucose, amino and fatty acids, insulin, insulin-like growth factor 1 (IGF-1), tumor necrosis factor (TNF) activate the mammalian target of rapamycin (mTOR) signaling pathway.
+
+
+Overactivation of the mTOR pathway causes insulin resistance.
+
+
+mTOR is involved in diabetic complications.
+
+
+mTOR is involved in aging and age-related diseases.
+
+
+Rapamycin extends life span in all species tested, including mice.
+
+
+
+
+Glucose, amino and fatty acids, insulin, insulin-like growth factor 1 (IGF-1), tumor necrosis factor (TNF) activate the mammalian target of rapamycin (mTOR) signaling pathway.
+
+Overactivation of the mTOR pathway causes insulin resistance.
+
+mTOR is involved in diabetic complications.
+
+mTOR is involved in aging and age-related diseases.
+
+Rapamycin extends life span in all species tested, including mice.
+
+
+
+
+What is the link between cellular and organismal aging?
+
+
+Will rapamycin (and other rapalogs) prevent diabetic complications in humans?
+
+
+How to combine rapamycin and insulin?
+
+
+Can intermittent schedules of rapamycin prevent type II diabetes, given that chronic overdosing of rapamycin can cause glucose intolerance?
+
+
+
+
+What is the link between cellular and organismal aging?
+
+Will rapamycin (and other rapalogs) prevent diabetic complications in humans?
+
+How to combine rapamycin and insulin?
+
+Can intermittent schedules of rapamycin prevent type II diabetes, given that chronic overdosing of rapamycin can cause glucose intolerance?
+
+Microvascular complications of diabetes such as retinopathy, nephropathy and neuropathy develop in 30–50% of patients with diabetes. These complications lead to blindness, renal failure and foot ulceration.1
+
+There are two forms of diabetes. Type I diabetes (also known as insulin-dependent or juvenile diabetes) is caused by absolute insulin insufficiency due to autoimmune destruction of insulin-producing beta cells of the pancreas. Type II diabetes (insulin-independent or adult-onset diabetes) is initiated by insulin resistance (IR) in muscle, liver and adipose tissues. Initially, an increase in insulin secretion by pancreatic beta cells compensates for IR. If/when beta cells fail, then glucose levels increase. When either fasting glucose levels or oral glucose tolerance test reach 126 and 200 mg/l, respectively, then diabetes is diagnosed. Although glucose control with intensive insulin therapy decreases the incidence of complications, diabetes remains a major cause of new-onset blindness, end-stage renal disease and lower leg amputation.2
+
+There are two puzzling observations. First, complications can precede the onset of type II diabetes. Second, intensive insulin therapy may initially worsen the progression of retinopathy in both types I and type II diabetes.
+
+In type II diabetes, the onset of chronic complications may occur at least 4–7 years before clinical diagnosis of diabetes, in other words, before hyperglycemia.3, 4, 5 The simplest explanation is that diabetes may be diagnosed too late. Yet, another possibility is that complications may precede type II diabetes, if both beta-cell failure and retinopathy are independently caused by IR. Regardless of patient's progression to diabetes, IR predicts retinopathy, neuropathy and nephropathy. Neuropathy is already present in 10–18% of patients at the time of diabetes diagnosis.6 The pre-diabetic state of IR is a risk factor for neuropathy7, 8 and nephropathy9 and is associated with retinopathy.10 Approximately 8% of the pre-diabetic population has retinopathy.11 Furthermore, retinopathy predicts subsequent risk of diabetes.12
+
+Patients with IR are at increased risk for death and morbidity due to myocardial infarction, stroke, and large-vessel occlusive disease due to atherosclerosis.13 The risk of macrovascular disease is increased before glucose levels reach the diagnostic threshold for ‘diabetes,' and 25% of newly diagnosed diabetics already have overt cardiovascular disease.14
+
+In some cases, intensified insulin treatment, while controlling glucose, paradoxically worsened diabetic retinopathy, neuropathy and nephropathy.6, 15, 16, 17, 18, 19, 20, 21 As we will discuss later, insulin therapy may accelerate complications because insulin and insulin-like growth factor 1 (IGF-1) activate mammalian target of rapamycin (mTOR).
+
+Target of rapamycin (TOR), which in mammals is known as mTOR, is a cytoplasmic kinase that regulates cell growth and metabolism in response to mitogens (such as IGF-I and vascular endothelial growth factor (VEGF)), nutrients (amino acids, glucose and fatty acids), hormones including insulin and cytokines.22, 23, 24, 25 The nutrient-sensing mTOR pathway is essential for development and growth of the young organism. But later in life, when growth has been completed, mTOR drives cellular and organismal aging.26, 27 In particular, mTOR converts cellular quiescence into senescence.28, 29, 30, 31, 32, 33, 34, 35, 36, 37 Senescent cells are hyperfunctional, hypersecretory, pro-inflammatory and signal resistant (e.g., insulin resistant).38, 39, 40, 41, 42, 43 Slowly, but inevitably, these cellular hyperfunctions lead to age-related diseases.44, 45, 46, 47 Not surprisingly, mTOR is involved in age-related diseases.48, 49, 50, 51, 52, 53, 54 Rapamycin slows down aging, prevents age-related diseases and extends maximal lifespan in mice.55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70
+
+It is important to emphasize that both glucose and insulin activate mTOR (Figure 1). Thus, high glucose levels activate mTOR. By normalizing glucose levels, insulin therapy may de-activate mTOR. On the other hand, insulin itself activates the mTOR pathway. Furthermore, hyperinsulinemia itself may cause IR.71
+
+Overactivated mTOR causes IR,72, 73, 74, 75, 76, 77, 78 mTOR activates S6 kinase (S6K), which in turn causes phosphorylation and degradation of insulin receptor substrate 1/2. This impairs insulin signaling (Figure 1). Also, mTOR causes IR by affecting growth factor receptor-bound protein 10.79, 80 Thus, hyperactivation of mTOR causes IR, by at least two mechanisms.
+
+For example, in fat-fed rodents, the mTOR pathway is activated, leading to impaired insulin signaling and IR.74, 81 Increased insulin levels (hyperinsulinemia) itself causes IR, preventable by rapamycin.71 In humans, infusion of amino acids activates mTOR/S6K1, which causes a feedback IR in skeletal muscle.75, 76 Oral rapamycin blunted mTOR activation, preventing nutrient-induced IR in humans.82 Also, tumor necrosis factor (TNF) and pro-inflammatory cytokines impair insulin signaling by activating mTOR.83 Noteworthy, aging is associated with pro-inflammation.84, 85 Although nutrients activate mTOR, dietary (calorie) restriction de-activates mTOR. This may explain why low calorie diet reduces IR.86 In some conditions, physical activity inhibits mTOR/S6K1 signaling in rat skeletal muscle, restoring insulin sensitivity.87 Thus, activation of mTOR in liver, muscle or adipose tissues is manifested as IR. How is hyperactivation of mTOR manifested in the retina?
+
+Excessive growth of small blood vessels (angiogenesis or neovascularization) contributes to retinopathy (Figure 2). VEGF stimulates angiogenesis and causes blood–retinal barrier breakdown.88, 89 Synthesis of VEGF is stimulated via the insulin/mTOR pathway90, 91 in retinal pigment epithelial cells.92, 93, 94, 95 Insulin and IGF-1 are involved in angiogenesis and diabetic retinopathy.92, 15, 16, 17, 18, 96, 97 This explains observations that intensified insulin treatment may worsen diabetic retinopathy.6, 15, 17, 18, 19, 88, 97, 98
+
+Rapamycin blocks insulin-induced hypoxia-inducible factor-1 (HIF-1) and senescence of retinal cells95, 99 and inhibits retinal and choroidal neovascularization in mice.100 Rapamycin prevents retinopathy in aging-accelerated rats.101, 102 Noteworthy, rapamycin prevented retinopathy without decreasing VEGF levels.101 Subconjunctival rapamycin was studied for the treatment of diabetic macular edema.103
+
+Rapamycin decreases renal hypertrophy in diabetic mice and slows progression of diabetic kidney disease in rats.104, 105, 106 Rapamycin treatment prevented diabetic kidney disease even without change in blood glucose levels.106
+
+Glucose, amino acids and fatty acids activate mTOR, thus causing expansion and hypertrophy of beta cells as well as increasing insulin secretion. Initially, this hyperfunction of beta cells compensates for IR, preventing hyperglycemia. However, it is hyperfunction that eventually causes beta-cell failure (diabetes). Beta-cell failure depends on genetic predisposition.107, 108, 109, 110, 111, 112, 113
+
+In mice with hyperactive mTOR, islet mass is initially increased because of hypertrophy of the beta cells. These mice also exhibit high insulin and low glucose at young ages. After 40 weeks of age, however, the mice develop progressive hyperglycemia and hypoinsulinemia accompanied by a reduction in islet mass due to a decrease in the number of beta cells. Hyperactive mTOR regulates pancreatic beta-cell mass in a biphasic manner.114 Rapamycin prevents hyperinsulinemia in mice on high-fat diet.115, 116
+
+How does hyperactivated mTOR cause beta-cell failure? Initially, mTOR stimulates beta-cell functions causing hyperfunction. Then, chronic hyperstimulation of mTOR renders beta cells resistant to IGF-1 and insulin, fostering cell death.107, 112, 117, 118, 119, 120, 121, 122, 123, 124 In theory, a short-term treatment with rapamycin may re-sensitize cells to insulin and pro-survival signals.125, 126
+
+By activating mTOR, insulin therapy can cause its negative effects. First, mTOR induces HIF, mitogens and cytokines, contributing to pro-inflammation and neo-angiogenesis (Figure 3a). Second, hyperactivation of mTOR causes feedback IR (Figure 3a). These negative effects are downstream from mTOR (Figure 3). In contrast, therapeutic effects (glucose utilization) of insulin are mostly upstream of mTOR (Figure 3). Therefore, pre-treatment with rapamycin will block negative effects of insulin, while preserving its positive effect on glucose metabolism (Figure 3b).
+
+Glucose activates mTOR, which by feedback loop can cause IR. In fact, very high levels of glucose cause IR and decrease glucose uptake.127, 128, 129 To overcome resistance, high doses of insulin may be needed, that is potentially harmful because of glucose fluctuations. In theory, pre-treatment with rapamycin would reduce IR in such patients. If so, then instead of high doses of insulin, rapamycin plus regular or low doses of insulin could be effective.
+
+Beta cells hyperfunction may eventually lead to beta-cell failure.107, 114, 117, 118, 122, 123, 124, 125 As we discussed previously125, 126 and here, mTOR renders beta cells unresponsive to pro-survival factors. In theory, intermittent or short-term treatment with rapamycin may decrease hyperfunction of beta cells and restore their responsiveness to pro-survival factors like IGF-I. In transplant organ recipients, rapamycin is used at high doses and daily for many years (long-term treatment). In contrast, to prevent beta-cell failure due to IR, it might be feasible to use rapamycin as a pulse (intermittent) treatment and at low doses.125, 126 Such therapy might actually preserve and improve beta-cell functions. During rapamycin treatment, beta cells would ‘rest' from hyperstimulation. Following rapamycin withdrawal, beta cells would re-acquire the capacity to adapt.
+
+As we already discussed, rapamycin prevents retinopathy, neuropathy and atherosclerosis.100, 101, 104, 105, 106, 130, 131, 132 Metabolic syndrome and aging stroma increase cancer risk (see Blagosklonny133, 134 and Mercier et al.135). Noteworthy, rapamycin decreases production of lactic acid by human cells136 and thus potentially can found application in the treatment of lactate acidosis. Albeit at lesser degree than rapamycin, metformin also inhibits mTOR, aging and cancer.137, 138, 139, 140, 141, 142, 143, 144, 145 Rapamycin analogs are used as anticancer drugs in part because the mTOR pathway is almost obligatory activated in cancer cells.146, 147, 148, 149, 150, 151, 152
+
+Calorie restriction, metformin and thiazolidinediones reverse IR in part by activating AMPK and by inhibiting the mTOR pathway.73, 77, 153, 154 In healthy volunteers, a single dose pre-treatment with rapamycin abrogated nutrient-induced IR.82 Furthermore, prolonged treatment with rapamycin can lead to beneficial metabolic switch.155 However, in some animal models, chronic treatment with rapamycin can cause a peculiar type of IR at least, which resembles so called ‘starvation diabetes'.
+
+As we discussed, overactivation of mTOR causes IR. Yet, prolonged and profound inhibition of mTOR can cause IR, especially in certain strains of mice.156, 157, 158, 159, 160, 161 This condition resembles ‘starvation diabetes', a reversible condition.125, 126 First during starvation, low insulin and IR decrease the use of glucose by the muscle, fat and the liver, thus sparing glucose for the brain. (The brain crucially depends on glucose and ketones). As peripheral tissues do not use glucose, starvation is manifested by glucose intolerance. For example, if the starved subject ingests glucose, glucose may appear in the urine. Second, lipolysis is increased, providing fatty acids for ketogenesis. Third, owing to hepatic IR, the liver produces glucose and ketones to feed the brain. Therefore, starvation superficially resembles diabetes. However, this is not a true diabetes but rather benevolent glucose intolerance or benevolent pseudo-diabetes. In fact, starvation, fasting and calorie restriction do not cause ‘diabetes complications' such as neuropathy or retinopathy or atherosclerosis.125, 126 In contrast, calorie restriction prevents diabetes and diabetic complications and extends life span.
+
+By the definition of nutrient-sensing pathways, the nutrient- and insulin-sensing mTOR pathway is deactivated during fasting.162 Deactivation of mTOR increases longevity and health span.47 Rapamycin, which is a starvation-mimetic, causes lipolysis and some other starvation-like alterations.125 If chronic high-dose rapamycin treatment is associated with diabetes-like conditions, this must be benevolent pseudo-diabetes. In contrast to type II diabetes, benevolent IR due to mTOR deactivation extends life- and health span.126
+
+As suggested, ‘having a single mechanism to explain the link between obesity, IR and type II diabetes would be ideal'.163 Numerous factors (glucose, insulin, amino acids, fatty acids, TNF and inflammatory cytokines), protein kinase C (PKC) activates the nutrient-sensing mTOR pathway. In contrast, adiponectin deactivates mTOR.22, 83, 164 Logically, overactivation of the nutrient-sensing pathway is a unifying factor in metabolic disorders.
+
+It was noticed that complications of type II diabetes and type II diabetes itself arise together, consistent with the hypothesis that they share a common antecedent.9 Furthermore, retinopathy and nephropathy may present in the absence of either overt clinical diabetes or IR.165 According to the mTOR-centric model, retinopathy and nephropathy as well as IR and beta-cell failure are complications of mTOR hyperactivation (Figure 4). In addition, IR causes a compensatory increase in insulin secretion that in turn may activate mTOR in the retina. Hyperglycemia and hyperinsulinemia further activate mTOR. Similarly, hyperglycemia may activate mTOR and cause metabolic syndrome and IR in type I diabetes.166 In type II diabetes, both IR and early complications may be manifestations of mTOR hyperactivation. Hyperactivated mTOR in fat/liver and in the retina may cause IR and retinopathy, respectively.
+
+Rapamycin and other rapalogs (everolimus, temserolimus) are widely used in the clinic for almost two decades. Their clinical applications range from transplantation to cancer treatment. Rapamycin and other rapalogs have been used in children56 and pregnant women.167 There were no side effects of high-dose rapamycin in healthy volunteers.82 Even in chronic high-dose administration, rapalogs are generally well tolerated. Despite common misconception, rapamycin and other rapalogs prevent cancer and viral infections in organ-transplant patients.152, 168 They improve immune response in old animals.169 Rapamycin was used to treat insulinoma,170, 171 polycystic kidney disease,172 systemic sclerosis173 and prevention of atherosclerotic in-stent restenosis.130, 131, 132 Now is the turn of diabetic complications. As I discussed here, rapalogs can be considered for prevention of side effects of intensive insulin therapy, for reduction of doses of insulin, for prevention of diabetic complications and atherosclerosis, for prevention of beta-cell failure and for the treatment of lactate acidosis. For these applications, rapamycin may be used at low doses and short-term or intermittent schedules. In theory, treatment of type II diabetes with insulin, if needed, may especially benefit from a combination with short-term or low-dose rapamycin.
+
+It is commonly assumed that aging and diseases of aging are distinct processes and that aging merely renders organism vulnerable to diseases rather than causing them. Thus, aging is believed to be driven by accumulation of molecular damage. Age-related conditions and diseases, such as IR and diabetes, are not caused by accumulation of molecular damage.44 In fact, IR can be reversed by low-calorie diet, weight loss and metformin, without affecting putative molecular damage. Linking gerontology and diabetology, the hyperfunction theory suggests that aging is not caused by damage but instead is driven by signal transduction pathways, the same pathways that are involved in age-related diseases.44, 47, 174, 175 Age-related diseases are continuation and exacerbation of the aging process. For example, hyperactivation of nutrient-sensing pathways such as mTOR and PKC in hepatocytes, adipocytes, retinal and beta cells stimulates cellular functions and also cause feedback insulin/signal resistance. These hyperfunctions eventually may culminate in beta-cell failure (diabetes) and nephropathy as well as accelerate atherosclerosis. In turn these diseases may result in organ failure (renal and heart failure, for instance), leading to organismal death.46
+
+hypoxia-inducible factor-1
+
+insulin-like growth factor 1
+
+insulin resistance
+
+mammalian target of rapamycin
+
+protein kinase C
+
+S6 kinase
+
+tumor necrosis factor
+
+target of rapamycin
+
+vascular endothelial growth factor
+
+Edited by G Melino
+
+The author is a consultant of Tartis-Aging Inc. (USA).
+
+mTOR and IR (via a feedback loop) in fat/muscle/liver cells. Insulin via insulin receptor substrate 1/2 (IRS1/2) activates the PI3K/Akt/mTOR/S6K pathway. The mTOR/S6K pathway is also activated by nutrients such as glucose, TNF and numerous other factors. The mTOR/S6K pathway in turn inactivates IRS1/2, thus causing IR
+
+mTOR and retinopathy. See text for explanation
+
+Pre-treatment with rapamycin may prevent negative effects of insulin therapy. (a) Insulin stimulates glucose uptake and metabolism. Simultaneously, insulin activates the mTOR/S6K pathway, causing induction of HIF-1, IR and cell senescence. (b) Acute treatment with rapamycin is expected to prevent negative side effects of insulin, while sparing most effects on glucose metabolism. Short-term courses of rapamycin are expected to restore insulin sensitivity
+
+Consequences of sustained mTOR activation. In the liver, muscle and fat tissues, sustained mTOR activation causes systemic IR. In the beta cells, mTOR initially increases beta-cell function, causes beta-cell hypertrophy and adaptation to IR. Beta-cell hyperfunction and IR eventually may cause beta-cell failure and type II diabetes. In the retina and the kidney, hyperactivation of mTOR may lead to retinopathy and nephropathy, respectively

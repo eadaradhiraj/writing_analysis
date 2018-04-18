@@ -1,0 +1,387 @@
+Fetal cardiac interventions: an update of therapeutic options. by Yuan SM
+ This article aims to present updated therapeutic options for fetal congenital
+heart diseases. 
+
+ Data source for the present study was based on comprehensive literature retrieval
+on fetal cardiac interventions in terms of indications, technical approaches and
+clinical outcomes. 
+
+ About 5% of fetal congenital heart diseases are critical and timely intrauterine
+intervention may alleviate heart function. Candidates for fetal cardiac
+interventions are limited. These candidates may include critical aortic valve
+stenosis with evolving hypoplastic left heart syndrome, pulmonary atresia with an
+intact ventricular septum and evolving hypoplastic right heart syndrome, and
+hypoplastic left heart syndrome with an intact or highly restrictive atrial septum
+as well as fetal heart block. The advocated option are prenatal aortic
+valvuloplasty, pulmonary valvuloplasty, creation of atrial communication and fetal
+cardiac pacing. 
+
+ Fetal cardiac interventions are feasible at midgestation with gradually improved
+technical success and fetal/postnatal survival due mainly to a well-trained
+multidisciplinary team, sophisticated equipment and better postnatal care.
+
+ Este artigo tem como objetivo apresentar opções terapêuticas atualizadas para
+cardiopatias congênitas fetais. 
+
+ Os dados do presente estudo foram baseados em uma revisão abrangente da
+literatura a respeito de intervenções cardíacas fetais em termos de indicações,
+abordagens técnicas e resultados clínicos. 
+
+ Cerca de 5% das cardiopatias congênitas fetais são críticas e a intervenção
+intrauterina oportuna pode aliviar a função cardíaca. Os candidatos para
+intervenções cardíacas fetais são limitados e podem incluir aqueles que são
+portadores de estenose valvar aórtica crítica com evolução para síndrome de
+hipoplasia do coração esquerdo, atresia pulmonar com septo ventricular íntegro e
+com evolução da síndrome de hipoplasia do coração direito e síndrome de hipoplasia
+do coração esquerdo com septo atrial intacto ou altamente restritivo, bem como
+bloqueio cardíaco fetal. As opções preconizadas são a valvoplastia aórtica fetal,
+valvoplastia pulmonar, criação de comunicação interatrial e implante de
+marca-passos em fetos. 
+
+ Intervenções cardíacas fetais são viáveis na fase intermediária da gestação com
+sucesso técnico e sobrevivência fetal/pós-natal, sendo aprimorados gradualmente,
+devido, sobretudo, a uma equipe multidisciplinar bem treinada, equipamentos
+sofisticados e melhores cuidados no pós-natal.
+
+Cardiac malformations can be a result of intrinsic myocardial disease or a secondary
+adaptive mechanism of fetal heart during in utero development[1]. Pressure and volume stimuli of blood flow through the
+fetal heart are important determinants of the development of fetal heart and circulation
+during the second and third trimesters[1]. In order to reduce perinatal morbidity and mortality, an early
+diagnosis of the fetal congenital heart disease (CHD) in the parturients who are at an
+increased risk of CHD is imperative, particularly for those with a family history of
+CHD[2]. About 5% of prenatally
+diagnosed CHDs including severe aortic stenosis (AS) (1.6%), pulmonary atresia with
+intact ventricular septum (PA/IVS) (1.9%) and severe pulmonary valve stenosis (1.5%) can
+be critical and therefore require intrauterine therapeutic interventions[3]. Early diagnosis of treatable CHDs may
+improve fetal intervention outcomes[4], allowing ventricular growth and angiogenesis for fetus with semilunar
+valve stenosis for successful adaptation to extrauterine life[5]. Advanced imaging technology and equipment have made an
+accurate diagnosis of most fetal CHDs possible[6]. Among them, echocardiography is a reliable means for prenatal
+diagnosis of a wide spectrum of CHDs[3]. At present, diagnosis of CHDs at midgestation (18-24-week
+gestation) has become feasible in almost all situations[7]. However, minor errors might occur in echocardiographic
+visualization of a CHD probably due to poor image quality, early (<20 weeks) or late
+(>34 weeks) gestation, or maternal obesity[7].
+
+Prenatal interventions for structural CHDs are now plausible with high rates of
+technical success at midpregnancy[8].
+Boston experiences have confirmed candidates for fetal cardiac interventions, which are
+critical AS with evolving hypoplastic left heart syndrome (HLHS), PA/IVS and evolving
+hypoplastic right heart syndrome, and HLHS with an intact or highly restrictive atrial
+septum[9]. Moreover, fetuses
+with hypoplasia of the tricuspid valve annulus seem to be good candidates for pulmonary
+valve intervention, allowing sufficient right heart growth[6]. Minimal invasiveness (percutaneous access, only one
+cardiac puncture, and placental avoidance) and free from complications (fetal
+bradycardia, effusions and thrombus) are regarded as an ideal procedure[10].
+
+Severe AS is associated with left ventricular outflow obstruction and may lead to
+irreversible left ventricular dysfunction secondary to volume overload with right
+heart failure and hydrops fetalis[11]. It may develop into HLHS prenatally and is associated with
+poor postnatal survival if left untreated in the uterus[12]. Retrograde flow in the transverse aortic arch,
+severe left ventricular dysfunction, monophasic and short mitral valve inflow and
+left-to-right flow across the foramen ovale can be determinants of AS progression
+into HLHS, in which very few chances of left heart growth and function can be
+available for a biventricular outcome[13]. Clinical observations also confirmed pre- and postnatal
+evolution of HLHS were associated with not only prenatal critical AS, but also
+endocardial fibroelastosis of the left ventricle[14]. By echocardiography, endocardial fibroelastosis
+is also implicated in post-interventional outcomes and postnatal heart
+growth[15].
+
+The entry criteria for prenatal intervention for critical AS have been advocated
+as severe AS or atresia with severe left ventricular dysfunction and the left
+ventricular length was not <2 SD below the mean for gestational age at
+diagnosis. The timing of intervention should be on an urgent basis because of the
+potential for rapid progression into left ventricular growth failure in
+fetuses[16].
+
+The first intrauterine balloon aortic valvuloplasty was reported in 1989 for the
+treatment of critical AS in two fetuses[12]. However, one died intrauterine post-intervention and the
+other died postnatally. The problem encountered during the maneuver was difficulty
+of needle withdrawal after the access to the fetal heart, which was afterwards
+resolved by the utilization of a stillette needle. Tworetzky et al.[16] reported successful aortic
+valvuloplasty, preventing the evolution of HLHS in fetuses with AS in 2004. Of the
+20 pregnancies at 21-29-week gestation, technical success rate was 70% and
+subsequent postnatal biventricular repair rate was 21%. Further observations by
+echocardiography revealed left heart growth arrest in unsuccessful or declined
+cases, but ongoing left heart growth in successful cases. Resumed left heart
+growth leading to a biventricular circulation at birth was observed in three
+babies[16]. Arzt et
+al.[17] reported 24 aortic
+valvuloplasties in 23 fetuses with critical AS at 26 (range, 21-32)-week
+gestation, both technical success and postnatal biventricular repair rates were
+66.7%. Recently, Goldstein et al.[18] introduced a standard 0.014-inch Prime-Wire Prestige coronary
+guidewire for aortic valvuloplasty. With the aid of a micromanometer pressure
+sensor 3 cm from the tip, it was directed into the left ventricle and across the
+severely stenotic aortic valve. Immediate aortic pressure drop was seen after the
+procedure. This technique allows several potential advantages over conventional
+procedures in continuous monitoring of pressure waveforms, improvement of
+intraprocedural fetal hemodynamic monitoring and responsiveness to
+resuscitation.
+
+Intrauterine aortic valvuloplasty for AS is technically feasible. Success depends
+on a series of predictive factors, including cardiac structural changes (severe
+endocardial fibroelastosis), devices available (angle of cannula entry, cannula
+designs and catheter and wire configurations), fetal positioning, ultrasound
+imaging, maneuver sophistications and post-interventional care, etc. In addition,
+quick maneuvers may minimize the progressive fetal bradycardia. A successful
+procedure was anyway achieved in 81% at 21-26-week gestation fetuses[16]. The mortality and morbidity of
+fetal AS were mainly due to technical errors and due to the degree of the
+hemodynamic effects of the stenosis and left ventricular adaptation, development
+and function during fetal life[19].
+
+However, fetal aortic valvuloplasty was not a definitive solution for fetal AS. In
+order to have a biventricular outcome, postnatal interventions are often required,
+such as repeated aortic valvuloplasty in most cases, temporary left atrial
+decompression, and frequent surgical interventions, such as coarctation repair,
+resection of endocardial fibroelastosis, mitral valvuloplasty, etc.[20].
+
+PA/IVS is characterized by complete obstruction to right ventricular outflow tract
+with varying degrees of right ventricular and tricuspid valve
+hypoplasia[21].
+Intrauterine pulmonary valvuloplasty in fetuses with PA/IVS allows potential
+growth and functional improvement of the right heart thereby increasing postnatal
+survival and biventricular repair[22-25]. Prenatal
+treatment of the lesion may prevent development of non-immune hydrops and
+intrauterine death[22], however,
+only limited cases have been reported[26]. Fetal cardiac intervention for PA/IVS is a challenging
+procedure because of the anatomical features of the right ventricular outflow
+tract and the difficult access to the pulmonary valve. With advancing gestation, a
+steady increase of the right ventricle-to-pulmonary artery gradient could lead to
+a high rate of pregnancy termination (61%) and some intrauterine death (5%) if
+left untreated[27].
+
+It has been shown that pulmonary valvuloplasty in fetal life is also technically
+feasible in midgestation. With optimal fetal positioning with the aid of adequate
+echo imaging, a limited maternal laparotomy without uterine exteriorization or
+incision could be attained. Fetal pulmonary balloon valvuloplasty can be performed
+at 21-32-week gestation under maternal local anesthesia and sedation by inserting
+a needle through maternal abdominal wall into the uterine cavity under ultrasound
+guidance. Fetal analgesic is then injected before advancing the needle through the
+fetal chest wall into the right ventricular infundibulum of the fetus. A guidewire
+is inserted through the needle and across the pulmonary valve. A balloon catheter
+is inserted and then inflated to dilate the stenotic valve. Access to the right
+ventricular outflow tract is acchieved through direct puncture by using a 19-gauge
+cannula via a subcostal approach on the fetal chest or an intercostal space next
+to the sternum, the cannula tip is directed into the right ventricular outflow
+tract and the atretic pulmonary valve is dilated by inflating a coronary
+angioplasty balloon. After the final balloon deflation, the wire, balloon and
+cannula are removed. The catheter and needle are then withdrawn[26].
+
+Since 2002, prenatal intervention for fetal PA/IVS has been performed for
+membranous pulmonary atresia with identifiable pulmonary valve leaflets or
+membrane, an intact or highly restrictive ventricular septal defect and right
+heart hypoplasia with a tricuspid valve annulus z score of <2. Compared with
+control fetuses with PA/IVS who did not undergo prenatal intervention with
+postnatal univentricular circulation, the tricuspid valve annulus, right ventricle
+length and pulmonary valve annulus grew significantly more from mid- to late
+gestation in the six fetuses that underwent successful interventions[25]. Gómez Montes et al.[28] reported fetal intervention was
+performed for PA/IVS in four fetuses with technical success in all of them and
+with some improvement of the right heart growth and hemodynamics early after the
+procedure, thereby increasing the chances for a biventricular repair.
+
+Polat et al.[29] also adopted a
+0.014-inch floppy tipped coronary guide wire in the maneuver. The wire-catheter
+assembly was introduced through the needle until the balloon emerged. After
+deployed in the left pulmonary artery, the balloon was pulled back across the
+perforated valve with three consecutive inflations. Post-interventional
+echocardiography showed slight improvement in right ventricular compliance. They
+performed a successful valvulotomy of the pulmonary valve in a fetus with PA/IVS
+at 28-week gestation and fetal hemodynamic improvement was observed following the
+procedure. Galindo et al.[23]
+reported successful valvuloplasty of the pulmonary valve performed in a fetus with
+critical pulmonary valve stenosis and heart failure at 25-week gestation. It is
+important to learn that midgestation fetal tricuspid valve z score>-3 and good
+tricuspid valve growth are the important factors leading to postnatal
+biventricular repair in fetuses with PA/IVS. According to the Boston experience, a
+Z-score >-3 is associated with biventricular outcome and a <-3 score with
+univentricular palliation[30].
+
+Hypoplastic left heart syndrome is potentially detectable in fetuses of 18-22-week
+gestation with a four-chamber view on echocardiography. With left heart
+obstruction, the existence of an interatrial communication is important for
+oxygenated blood to be distributed to the body and to prevent pulmonary
+congestion[31]. Prenatal
+intervention on the atrial septum is indicated for an intact or highly restrictive
+atrial septum, which promotes profound cyanosis and pulmonary edema after birth,
+leading to little effective pulmonary blood flow and resulting in chronic
+pulmonary venous hypertension and lymphatic dilation. This can in turn result in
+increased perioperative morbidity and mortality with stage I Norwood procedure.
+Postnatal atrial septotomy, albeit rapid and effective, may not reverse pulmonary
+vasculature pathologies and further mortality in the first few weeks or months of
+life. Therefore, midgestation intervention on atrial septum is imperative for
+preventing pulmonary vasculature changes, reducing the need for additional or
+urgent procedures and improving the infant's surgical outcome.
+
+The maneuver of prenatal interventions on atrial septum has been described. After
+acessing the fetal heart, a communication is created by directing the needle
+across the atrial septum. A wire and small balloon are forwarded into the left
+atrium and a small atrial communication is enlarged by inflation of the
+balloon[32]. A larger
+series of intrauterine atrial septoplasty in fetuses with HLHS was reported by
+Marshall et al.[33]. Of 21
+fetuses at 24-34-week gestation who received this procedure, there were 19
+technical successes and two fetal deaths. An atrial septal defect of at least 3 mm
+in diameter was confirmed to allow postnatal benefit. However, postnatal outcomes
+were disappointing with a mortality of 58%. In order to keep septectomy open, a
+stent can be deployed across the atrial septum. Chaturvedi et al.[34] performed percutaneous
+ultrasound-guided stenting of the atrial septum in 10 fetuses. Two fetuses
+developed stent stenosis and died postnatally from pulmonary hypertension and
+sepsis, respectively. Kalish et al.[35] reported that nine fetuses at 24-31-week gestation with
+HLHS/IAS received fetal atrial septal stent placement, with technical success in
+five and failure in four cases. Stent deployment may decompress the left atrium.
+Additionally, there were no maternal complications.
+
+Complete heart block can be life-threatening in fetuses. The etiologies were
+considered to be inflammation and fibrosis at the atrioventricular node associated
+with the production of antibodies[36]. Heart block can progress during pregnancy and may result in
+hydrops fetalis and eventual fetal demise[37]. There are few effective treatment options for fetal heart
+block, as side effects of fluorinated steroids (betamethasone or dexamethasone)
+have been concerned, whereas fetal heart rate and glomerular filtration rate
+irrespective of the gestational age were not significantly influenced[38,39]. Moreover, poor response of congenital fetal heart block
+to intravenous maternal isoproterenol can be an indication for permanent pacemaker
+implant before birth[40]. In
+general, a permanent pacemaker is required in about 66% of the cases[40].
+
+The first trial of fetal cardiac pacing with a pacemaker implant for complete
+heart block was reported in 1986[41,42]. Initial
+attempts of intrauterine percutaneous pacing through a transthoracic approach or
+an inferior vena cava route resulted in fetal demise shortly after the procedure.
+Later, Assad et al.[43,44] designed two modified pacing
+electrodes: a screw-in lead (11/2 turns) and a stitch-on lead, which were tested
+in experimental models of fetal heart block induced by cryosurgical ablation of
+the atrioventricular node. They found that the screw-in electrode was better for
+fetal pacing.
+
+The initially proposed approach was an epicardial pacing lead on the fetal heart
+with an extra-uterine pulse generator implanted in the mother. However, a lack of
+myocardial fixation and dislodgment of the percutaneous lead due to fetal movement
+were the major limitations of the percutaneous approach. To resolve this problem,
+an entire single chamber pacing system without exteriorized leads without risk of
+dislodgement of the pacing system was therefore developed[45]. Such a design is now possible
+because of significant advances made in fetal surgery and fetal intervention,
+allowing the pacing system to be deployed through the maternal abdomen under
+ultrasound guidance.
+
+Furthermore, Assad et al.[46]
+designed a novel prototype T-shaped lead for secure fixation onto the fetal
+myocardium and prevention from electrode dislodgement, which could be introduced
+via an 18-gauge needle and therefore an open surgery was not needed. The new lead
+was tested in fetal goats, suggesting that a gradual increase in the fetal rate,
+beginning at 80 beats per minute after implantation would be more reliable for an
+adequate fetal cardiac output[47]. Boudjemline et al.[48] developed an implantable fetal pacing lead, which was made
+of a flexible quadrifilar coil with outer silicone insulation and a fixed screw on
+its distal tip. Attempts in 12 pregnant Pre-Alp ewes at 110-112 day gestation were
+successful for anchoring the lead on the ventricular wall in all 12 and on the
+atrium in three of them.
+
+The reverse remodeling phenomenon should be even more pronounced in fetal life. Thus,
+fetal cardiac interventions were attempted aiming at promoting ventricular growth and
+function, decreasing intrauterine death and increasing survival[10]. Fetal cardiac interventions have been
+advocated for fetuses with semilunar valve stenosis[16,24,49] or with HLHS with an intact or highly restrictive
+atrial septum[33]. In the early years,
+fetal cardiac interventions showed poor outcomes, probably related to poor
+ultrasonographic imaging, limitations of equipment availability and poor fetal
+conditions[50]. Technical
+success of fetal cardiac interventions has greatly enhanced postnatal biventricular
+outcome, thereby avoiding the need for three-stage palliation or cardiac
+transplant[51]. Despite the
+progress made in this field, these fetal cardiac interventions remain controversial in
+both indications and results[3,52].
+
+There have been relatively fewer prenatal pulmonary valve interventions comparing with
+prenatal aortic valve intervention[53]. On the other hand, prenatal interventions for the management of
+pulmonary atresia and intact ventricular septum were often associated with increased
+risks of preterm delivery and neonatal mortality[49]. Furthermore, pulmonary valve stenosis may be alleviated with
+the intrauterine right heart growth and the impact of interventional therapy on the
+pulmonary circulation does not seem to be as forceful as that on the systemic
+circulation secondary to fetal aortic valvuloplasty[3].
+
+Candidates for fetal arrhythmic interventions have been considered supraventricular
+tachycardia refractory to conventional drug with a potential for progression into
+hydrops fetalis and fetal demise[54,55]. Immune complete heart block with low
+ventricular rate may cause significant decrease in fetal cardiac output, cardiac failure
+and hydrops fetalis[56,57]. The poor prognosis of these fetal arrhythmias has
+incited the development of alternative therapeutic strategies. Fetal ventricular pacing
+has been found to improve ventricular output in experimentally induced complete
+atrioventricular block[58]. However,
+initial attempts of fetal pacing have failed in human fetuses[4,42,45]. As open fetal surgery for intrauterine pacemaker
+insertion has been associated with unacceptable maternal morbidity and fetal demise,
+minimally invasive approaches using either transcutaneous ultrasound-guided[59] or fetoscopic approaches[47] have been favored. Both endovascular
+route for intracardiac[42] and
+epicardial lead anchorages[59] were
+attempted. Adaptations of new leads to the fetal anatomy for a secure anchorage are
+crucial for obtaining better outcomes of fetal pacing. Fetal cardiac interventions by
+direct cardiac puncture are associated with significant fetal morbidity. In order to
+avoid direct cardiac puncture, Nugent et al.[60] have employed successfully in an in vitro fetal heart model of
+approximating a 32-week gestation with magnetically steerable guide wires from the
+hepatic vein to the descending aorta and balloon to the aortic valve, in between 5 and
+10 minutes.
+
+The treatment of critical left ventricular outflow tract obstruction in the neonate and
+infant remains a significant challenge[61]. Postnatal surgical options include biventricular repair (surgical
+aortic valvotomy, balloon aortic valvotomy, Ross/Konno procedure and arch repair with or
+without other lesion repair), single ventricular repair (Norwood type), biventricular
+repair after initial single ventricular repair and cardiac transplantation[61]. Biventricular repair presents obvious
+advantages over univentricular type of repair in terms of better survival and lower
+hospitalization costs[62]. Rhodes
+scores have been taken as reliable indicators for the determination of a biventricular
+or univentricular repair[63]. For
+conditions with no possibility of biventricular repair, the expectant parents may
+choose, between postnatal palliative management (such as the Norwood procedure for HLHS)
+or for interruption of pregnancy[6].
+Heart transplantation can be a third option for the parents in saving the baby with
+life-threatening, critical AS, which fails to other surgical interventions[64].
+
+At the beginning, the technical success and biventricular repair rates were low, which
+were now considered to be mostly attributed to postnatal care other than prenatal
+intervention, while technical failure was only responsible for small parts[47]. Only small part of the mortality could
+directly correlate with the prenatal intervention; whereas the greater part died
+postnatally probably due to the limited postnatal surgical and intensive care. The
+considerably improved survival rates and higher rates of postnatal biventricular repair
+following fetal dilation of severe semilunar valve obstructions were a result of
+proficient surgical and intensive care managements[47]. Most recently, with well-established multidisciplinary team and
+equipments, prenatal intervention success and postnatal biventricular repair rates have
+been significantly improved[17]. In
+Brazil, fetal interventions for CHDs have achieved a 91% success rate. There were two
+failures out of the 22 procedures, one was aortic and the other was pulmonary
+valvuloplasty[65].
+
+Technical challenges and poor candidate selection are the two major restrictive factors
+limiting the development of fetal cardiac interventions. Lee & Comstock[66] emphasized the importance of a
+well-established practice guidelines and a standardized diagnostic training team for
+prenatal diagnosis of CHDs. A multidisciplinary team with the incorporation of a
+pediatric cardiac surgeon with maternal-fetal medicine, interventional cardiologist and
+fetal echocardiography subspecialists is warranted. Future directions of fetal cardiac
+interventions lie on technical advancements such as computer-assisted
+navigation[66], open fetal
+cardiac surgery and fetoscopic cardiac surgery (Ebsteins' anomaly with hydrops fetalis,
+tetralogy of Fallot and pulmonary valve atresia).
+
+Open fetal cardiac intervention currently remains stagnant at the stage of animal
+experiments. It has revealed that midterm ovine fetuses under 30-minute bypass was
+associated with decreased cardiac output and increased end-diastolic pressure of the
+right ventricle[67]. Impairment of
+placental perfusion and respiratory gas exchange have been observed in lamb placenta
+when the animals were subjected to normothemic or hypothemic CPB with more severe
+impairment seen under hypothermia[68].
+Further studies showed right ventricular function of midterm ovine fetuses under
+90-minute bypass was better preserved by fibrillatory arrest than by
+cardioplegia[69]. During fetal
+heart bypass, a volume shift of approximately 100 mL/kg, equivalent to 0.8 mL/kg/min,
+occurred and this may require volume replacements during bypass and normal physiologic
+supplements after bypass for maintenance of blood volume[70]. Besides, fetal CPB may lead to a profound, early rise
+of vasopressin levels, which may in turn impair placental function[71]. These achievements have laid
+sufficient foundation for future clinical practice of open fetal cardiac interventions
+in human fetuses.
+
+Fetal cardiac interventions (intrauterine balloon aortic valvuloplasty, intrauterine
+pulmonary valvuloplasy, prenatal intervention on the atrial septum and fetal cardiac
+pacing) for four types of congenital heart defects are feasible during midgestation
+aiming at improving fetal cardiac function, minimizing loss of fetus and enhancing
+postnatal biventricular repair. The postnatal deaths are more likely to be a result of
+candidate selection, effects of improvement of ventricular circulation secondary to
+fetal cardiac interventions and surgical technical errors and probably a limited
+intensive care. For improving success rate and post-interventional outcomes, a
+well-trained team with sophisticated equipment is warranted. With improved patient
+selection, technical modifications, for example with a robotic interventional approach,
+promising outcomes may be achieved in future cases. Moreover, with the advances of fetal
+bypass techniques, it is anticipated that open fetal heart operations would become
+feasible to facilitate the early treatment of fetal CHDs in the future.

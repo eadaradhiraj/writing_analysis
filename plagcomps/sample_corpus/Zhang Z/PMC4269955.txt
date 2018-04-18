@@ -1,0 +1,118 @@
+Could high-concentration rifampicin kill rifampicin-resistant M. tuberculosis? Rifampicin MIC test in rifampicin-resistant isolates from patients with osteoarticular tuberculosis. by Zhang Z ,Dai F ,Luo F ,Zhong M ,Huang Z ,Hou T ,Xu J
+Several studies have shown that the intralesional concentration of rifampicin in osteoarticular tuberculosis is typically at a subtherapeutic level. Sustained or controlled release by novel drug delivery systems has been investigated to maintain an effective rifampicin concentration, but the local administration of rifampicin remains controversial. Additionally, it is still unclear whether high-dose rifampicin could kill rifampicin-resistant Mycobacterium tuberculosis. The aim of this study was to assess the in vitro killing effect of high-concentration rifampicin on rifampicin-resistant M. tuberculosis isolated from patients with osteoarticular tuberculosis.
+
+A set of 18 rifampicin-resistant M. tuberculosis isolates by the BACT/MGIT 960 system from patients with osteoarticular tuberculosis was collected for further study. The detection of rpoB gene mutations was performed using non-fluorescent, low-density DNA microarrays to determine the resistant mechanism. Following secondary culture, susceptibility to gradient concentrations of rifampicin (2 to 256 μg/ml) was tested; these concentrations are attainable for prolonged periods of local chemotherapy. The relationship between microbial killing by high-dose rifampicin and rpoB gene mutations was analyzed.
+
+Mutations in the rifampicin resistance-determining region (RRDR) of the rpoB gene were identified in 17 isolates (94.4%); one strain exhibited no mutations in this region. The most prevalent mutation sites were in codons 531 (55.56%), 516 (16.67%), 526 (11.11%), and 513 (11.11%). Isolates with mutations in the rpoB gene were highly resistant to rifampicin, 11 of which had minimal inhibitory concentrations (MICs) exceeding 256 μg/ml (not determined). The MICs for the remaining seven resistant isolates were between 32 and 256 μg/ml. Particularly in less rifampicin-resistant M. tuberculosis strains, growth was inhibited at high concentrations.
+
+Increasing the rifampicin concentration may optimize this drug’s antituberculous effect, even against some rifampicin-resistant isolates, if systemic and local toxic effects can be minimized.
+
+One-third of the world’s population is infected with Mycobacterium tuberculosis. There were almost 9 million new cases in 2011 and 1.4 million tuberculosis (TB) deaths, with China accounting for nearly 17% of the worldwide TB burden, second only to India in the number of TB patients [1]. Extra-pulmonary TB was usually non-contagious, and it did not attract much public attention. Unfortunately, the incidence of osteoarticular tuberculosis has risen concurrently with that of pulmonary tuberculosis. Osteoarticular tuberculosis condition requires more attention, especially considering the large number of affected people and its resultant disability and mortality [2]. Additionally, multidrug-resistant tuberculosis (MDR-TB) is on the rise worldwide, posing a significant threat to the world’s population.
+
+Since rifampicin was introduced as an antituberculous agent in 1963, it has been the cornerstone of drug regimens for the treatment of tuberculosis. Studies have demonstrated variable bioavailability and low plasma concentrations of rifampicin [3], as well as intralesional concentrations of rifampicin and pyrazinamide in osteoarticular tuberculosis at mostly subtherapeutic levels [4]. Therefore, rifampicin has been associated with clinical failure and drug resistance.
+
+In some drug resistance test by absolute concentration method, low-level resistance of M. tuberculosis to rifampicin was overcome by an increase in the drug concentration from 50 to 250 μg/ml, implying that the drug’s antituberculous effect can be optimized by increasing the dose [5]. The local administration of rifampicin may be an effective clinical approach to treat osteoarticular tuberculosis. Our study in vitro aimed to determine the killing effect of high-concentration rifampicin on rifampicin-resistant isolates from patients with osteoarticular tuberculosis.
+
+A total of 198 patients with osteoarticular tuberculosis were admitted to Southwest Hospital (Chongqing, China) and the Chongqing Infectious Diseases Medical Center (Chongqing, China) from 1 December 2006 to 1 December 2011. The study was approved by the Ethics Committee of Southwest Hospital. Written informed consent was obtained from all of the patients. Cold abscess and caseous tissue necrosis samples were collected during surgery. These specimens were processed according to standard protocols. The same amount of each concentrated sample (0.5 ml) was inoculated into vials for use with the BacT/ALERT 3D Microbial Detection System (bioMerieux, France) containing modified Middlebrook 7H9 broth supplemented with an antibiotic. All mycobacterial cultures were incubated at 37°C. The detection of mycobacterial growth by the BacT/ALERT 3D Microbial Detection System is based on colorimetric detection of carbon dioxide, and the cultures are continuously monitored by the automated system. Mycobacterial growth was also verified by Ziehl-Neelsen staining and microscopy [6-9]. Drug susceptibility testing was performed on the first isolate from each patient using the absolute concentration method on Löwenstein-Jensen (L-J) medium. This testing included 11 first- and second-line drugs. For all drugs, except pyrazinamide, the following critical concentrations were used: 50 and 250 μg/ml rifampicin, 1 and 10 μg/ml isoniazid, 5 and 50 μg/ml ethambutol, 10 and 100 μg/ml streptomycin, 5 and 50 μg/ml levofloxacin, 1 and 10 μg/ml PAS, 25 and 100 μg/ml protionamide, 0.1 and 1 μg/ml pasiniazid, 50 and 250 μg/ml rifapentine, 10 and 100 μg/ml capreomycin, and 10 and 100 μg/ml amikacin. The L-J slants were inspected weekly for growth over a total of 8 weeks [10].
+
+A set of 18 rifampicin-resistant M. tuberculosis strains were obtained and recovered using the BacT/ALERT 3D Microbial Detection System. The standard M. tuberculosis strain H37Rv (from the National Institutes for Food and Drug Control of China) was employed as a control. Each culture was used for susceptibility testing within 3 days after the instrument detected a positive signal.
+
+The template DNA for molecular sequencing was prepared by heat-killing mycobacteria at 95°C for 30 min, sonicating the bacteria at room temperature for 25 min, and centrifuging the sample at 5,000 rpm for 1 min. The supernatant was then stored at −20°C until needed.
+
+A commercial PCR-based reverse hybridization line probe assay (M. tuberculosis Drug Resistance Detection Array Kit; CapitalBio Corporation, China) using biotinylated primers was performed manually according to the manufacturer’s instructions. This assay consists of specific oligonucleotides immobilized at known locations on membrane strips and hybridized under strictly controlled conditions with a biotin-labeled PCR product (Table 1).Table 1
+Schematic diagram of the DNA probe array for rpoB detection
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+1QCEC2BCrpoB-IC3
+Mycobacterium
+
+M. tuberculosis
+4511-WT511 T → C5513-WT513 C → A6516-WT513 A → C7533-WT533 T → C8531-WT531 C → T9526-WT531 C → G10526 C → T526 C → G11526 A → T526 A → G12516 A → T516 G → T13516 A → GNC14ECQCAll probes (511, 513, 516, 531, 526, and 533) were immobilized horizontally five times. QC, quality control; EC, external control; BC, blank control; NC, negative control; IC, internal control; WT, wild-type.
+
+
+Schematic diagram of the DNA probe array for rpoB detection
+
+
+All probes (511, 513, 516, 531, 526, and 533) were immobilized horizontally five times. QC, quality control; EC, external control; BC, blank control; NC, negative control; IC, internal control; WT, wild-type.
+
+The fluorescent signal emitted by the target bound to the array was detected at a pixel resolution of 3 μm using a LuxScan™ 10 K Microarray Scanner (CapitalBio). Probe array cell intensities, nucleotide base calls, and mutation determinations and reports were generated using GeneChip software (CapitalBio) [11-14].
+
+A stock solution of rifampicin was prepared by dissolving 80 mg of rifampicin in 1 ml of DMSO to attain a final concentration of 80 mg/ml. This solution was then aliquoted and stored at −20°C. Eight dilutions (bioMerieux) were prepared by diluting the rifampicin stock solution with modified Middlebrook 7H9 to achieve the desired concentrations by the broth microdilution method (serial twofold dilutions of rifampicin, ranging from 2 to 256 mg/ml). Culture vials containing antibiotics, as well as one drug-free control vial, were inoculated to reach a final concentration of approximately 3 × 105 to 3 × 106 cfu/ml. All culture vials were incubated in the BacT/ALERT 3D Microbial Detection System instrument and continuously monitored until the results, indicating susceptibility or resistance, were automatically interpreted and reported by the system based on predefined algorithms. These algorithms compared growth in the drug-containing tubes to that in the growth control tube. Next, 0.5 ml of MB/BacT Antibiotic Supplement (bioMerieux) was added to the BacT/ALERT culture vials. These vials were tested daily for up to 12 days, which is the maximum incubation time for antimycobacterial susceptibility testing. Ziehl-Neelsen staining was used to confirm the presence of acid-fast bacilli in all positive media.
+
+The results were analyzed using Wilcoxon’s signed rank test. P values of less than 0.05 were considered statistically significant. All analyses were carried out using SPSS 13.0 software.
+
+In this study, mutations in the rifampicin resistance-determining region (RRDR) of the rpoB gene were identified in 17 (94.4%) of the 18 rifampicin-resistant isolates, with one rifampicin-resistant strain exhibiting no mutations in this region. The most prevalent mutation sites were in codons 531 (55.56%), 516 (16.67%), 526 (11.11%), and 513 (11.11%) (Figure 1). High-level rifampicin-resistant strains (resistant to 250 μg/ml) exhibited a higher mutation frequency at 531-Ser than low-level rifampicin-resistant strains (resistant to 50 μg/ml) (P < 0.05). The growth of the H37Rv strain was inhibited at rifampicin concentrations ≤0.25 μg/ml, indicating drug susceptibility.Figure 1
+Detection of
+M. tuberculosis
+rpoB mutants using a DNA probe array. (a) Wild-type without high hybridization signal of the mutated probe as control. (b) RMP resistance with the rpoB 531 (TCG → TTG) mutation (higher hybridization signal, red rectangle). (c) RMP resistance test: rpoB 526 (CAC → GAC) mutation (red rectangle). (d) RMP resistance with the rpoB 516 (GAC → GGC) mutation (red rectangle). (e) RMP resistance with the rpoB 531 (CAA → CCA) mutation (red rectangle).
+
+
+Detection of
+M. tuberculosis
+rpoB mutants using a DNA probe array. (a) Wild-type without high hybridization signal of the mutated probe as control. (b) RMP resistance with the rpoB 531 (TCG → TTG) mutation (higher hybridization signal, red rectangle). (c) RMP resistance test: rpoB 526 (CAC → GAC) mutation (red rectangle). (d) RMP resistance with the rpoB 516 (GAC → GGC) mutation (red rectangle). (e) RMP resistance with the rpoB 531 (CAA → CCA) mutation (red rectangle).
+
+The relationship between the degree of resistance to rifampicin and the mutation site was characterized by the minimal inhibitory concentration (MIC) test. Isolates with mutations in the rpoB gene were highly resistant to rifampicin, 11 of which had MICs exceeding 256 μg/ml (not determined), and 81.81% (9/11) had mutation in codons 531. The MICs for the remaining seven resistant isolates were between 32 and 256 μg/ml, and only 14.29% (1/7) had mutation in codons 531. Particularly in low-level rifampicin-resistant M. tuberculosis strains, growth was inhibited at high concentrations (Table 2).Table 2
+M. tuberculosis
+rpoB wild-type and mutant isolates analyzed using the rpoB probe array
+
+Clinical isolates
+
+Resistance phenotype
+
+MIC (μg/ml)
+
+Mutated codon(s)
+1L32WT2L64516 A → G3L64516 A → G4L128513 A → C5H128526 C → G6H256513 A → C7H256531 C → T8HND531 C → T9HND531 C → T10HND531 C → T11HND531 C → T12HND531 C → T13HND531 C → T14HND531 C → T15HND531 C → T16HND531 C → G17HND526 C → T18HND516 A → GH37RvS0.25WTS, susceptible to rifampicin; L, low-level resistance to rifampicin (resistant to 50 μg/ml rifampicin); H, high-level resistance to rifampicin (resistant to 250 μg/ml rifampicin); ND, not determined; WT, wild-type.
+
+
+M. tuberculosis
+rpoB wild-type and mutant isolates analyzed using the rpoB probe array
+
+
+S, susceptible to rifampicin; L, low-level resistance to rifampicin (resistant to 50 μg/ml rifampicin); H, high-level resistance to rifampicin (resistant to 250 μg/ml rifampicin); ND, not determined; WT, wild-type.
+
+Rifampicin is a key component of standard antituberculosis regimens. This drug exhibits a significant early bactericidal effect on metabolically active M. tuberculosis. However, data suggest that the standard rifampicin dose is probably at the lower limit of optimal efficacy. The currently applied dose of 10 mg of drug per kilogram of body weight may only result in low plasma concentrations of rifampicin [3]. Several studies have also shown that the intralesional concentration of rifampicin in osteoarticular tuberculosis is mostly subtherapeutic. Jutte and colleagues found that the penetration of isoniazid in tuberculous pleural effusion and psoas abscess was always sufficient, while the penetration of rifampicin was mostly below the desired ratio, and that of pyrazinamide was ten times too low on average [4]. Therefore, rifampicin may potentially fail in patients with active disease and may even contribute to the increasing resistance to antituberculosis drugs. Unfortunately, the causes of poor or variable bioavailability of rifampicin are not clearly understood. This problem is particularly evident when rifampicin is present in antituberculous fixed-dose combination products, which is a matter of serious concern. The enhanced decomposition of rifampicin in the presence of isoniazid in the stomach after ingestion may be a key reason for the problem. Crystalline changes in the drug and inadequate blood supply to the tuberculous lesion are also cited as the principal reasons [15].
+
+The mechanisms underlying drug resistance are often multifaceted and may include not only chromosomal mutations but also induction or the presence of efflux pumps, and even antagonism of the component drugs in combination therapy. Mutations in the rpoB gene, encoding the β subunit of the bacterial RNA polymerase, have been strongly associated with rifampicin (RMP)-resistant phenotypes in multiple study populations. rpoB mutations are most common in an 81-bp region called the RRDR. Up to 90% of RMP-resistant strains carry RRDR mutations at codons 516, 526, or 531 [16]. In this study, the majority (94.44%) of rifampicin-resistant M. tuberculosis isolates were found to contain point mutations at codons 531 (55.56%), 516 (16.67%), 526 (11.11%), or 513 (11.11%), which are located in the core region of the rpoB gene. Codons 531 and 526 are the most common sites of nucleotide substitutions worldwide; the difference between the worldwide average and our data may be attributed to sampling error and geographical genetic differences in RMP-resistant M. tuberculosis strains [17,18].
+
+The use of certain antituberculous drugs for the treatment of low-level rifampicin-resistant M. tuberculosis remains controversial. To assess the feasibility of isoniazid for the treatment of isoniazid (INH)-resistant tuberculosis, Schaaf and colleagues measured the minimal inhibitory concentration of isoniazid in isoniazid-resistant M. tuberculosis isolates obtained from children. They found that for 80% of the isoniazid-resistant strains for which the MIC was relatively low, high-dose INH at 15–20 mg/kg/day could still improve treatment [19]. It is unclear whether higher doses of RMP could similarly increase the antituberculous activity of RMP. Gumbo and coworkers demonstrated that rifampicin’s microbial killing is concentration-dependent and is linked to the ratio of the area under the concentration-time curve to the MIC. The suppression of resistance is associated with the free peak concentration (Cmax)-to-MIC ratio and not to the duration for which the rifampicin concentration is above the MIC. In a previous study, rifampicin was shown to prevent resistance to itself at a free Cmax/MIC ratio of ≥175 [20], implying that higher doses of rifampicin than those currently employed would optimize its microbial killing effect, if tolerated by patients. Our results show that a portion of rifampicin-resistant isolates (38.89%) could be killed by higher concentrations of rifampicin. The reason for this finding is unclear but may be related to saturable efflux transporter proteins. More specifically, the concentration-dependent effects of rifampicin may be partly explained by what appears to be enhanced rifampicin entry at higher concentrations in the bacillary milieu [18,20]. The strains with higher MICs were found to have a higher frequency of the 531 codon mutation than strains with lower MICs (P < 0.05). These results suggest that mutations in the rpoB gene are mostly, but not necessarily, associated with M. tuberculosis rifampicin resistance and that the sites of the mutations in the rpoB gene may affect the level of resistance to rifampicin.
+
+In the light of these results, local administration of rifampicin is worth considering to achieve higher concentrations. Rifampicin Injection USP was approved by the FDA on 29 October 1999. However, the clinical use of rifampicin injection in China is still uncommon compared to ingestion of rifampicin capsules. Rifampicin injection was the most widely available drug form when considering practicability of local chemotherapy. Following the development of sustained/controlled release techniques, an implantable drug delivery system for osteoarticular tuberculosis may have clinical applications in the future. However, the possibility of the selective enrichment of rifampicin-resistant bacteria and local toxic effects needs to be considered.
+
+In summary, the results of the current study suggest that increasing the rifampicin concentration in tuberculous lesions may optimize the drug’s antituberculous effect, even for some rifampicin-resistant isolates, as long as systemic and local toxic effects are minimized. Further studies may be required to determine the microbial killing and resistance suppression ability of locally administered rifampicin.
+
+
+Competing interests
+
+
+The authors declare that they have no competing interests.
+
+
+Authors’ contributions
+
+
+JX and FD conceived and designed the experiments. ZZ, MZ, and ZH performed the experiments. ZZ, FL, and TH analyzed the data. TH contributed reagents/materials/analysis tools. FD and ZZ wrote the paper. All authors read and approved the final manuscript.
+
+
+Funding
+
+
+This study was funded by the Chongqing Key Scientific and Technological Project (2011AB5036). The funders had no role in the study design and data collection.

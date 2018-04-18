@@ -1,0 +1,518 @@
+Mycobacterial endocarditis: a comprehensive review. by Yuan SM
+A systematic analysis was made in view of the epidemiology, clinical
+features, diagnosis, treatment and main outcomes of mycobacterial
+endocarditis.
+
+The data source of the present study was based on a comprehensive literature
+search in MEDLINE, Highwire Press and Google search engine for publications
+on mycobacterial endocarditis published between 2000 and 2013.
+
+The rapidly growing mycobacteria become the predominant pathogens with
+Mycobacterium chelonae being the most common. This condition has changed
+significantly in terms of epidemiology since the 21st century,
+with more broad patient age range, longer latency, prevailed mitral valve
+infections and better prognosis.
+
+Mycobacterial endocarditis is rare and the causative pathogens are
+predominantly the rapidly growing mycobacteria. Amikacin, ciprofloxacin and
+clarithromycin are the most frequently used targeted antimicrobial agents
+but often show poor responses. Patients with deep infections may warrant a
+surgical operation or line withdrawal. With periodic multidrug therapy
+guided by drug susceptibility testing, and surgical managements, patients
+may achieve good therapeutic results.
+
+Uma análise sistemática foi feita considerando epidemiologia, quadro clínico,
+diagnóstico, tratamento e principais resultados da endocardite
+micobacteriana.
+
+Foi realizada uma pesquisa bibliográfica abrangente no MEDLINE, Highwire
+Press e no Google para publicações sobre endocardite micobacteriana,
+publicados entre 2000 e 2013.
+
+As micobactérias de crescimento rápido tornam-se os patógenos predominantes,
+com Mycobacterium chelonae sendo a mais comum. Essa
+condição se alterou significativamente em termos de epidemiologia, desde o
+início do século 21, abrangendo faixa etária mais ampla, maior latência,
+prevalecendo infecções da valva mitral e melhor prognóstico.
+
+Endocardite micobacteriana é rara e os patógenos causadores são
+predominantemente as micobactérias de crescimento rápido. Amicacina,
+ciprofloxacina e claritromicina são os agentes antimicrobianos mais
+frequentemente utilizados, mas muitas vezes apresentam respostas pobres.
+Pacientes com infecções profundas podem justificar um procedimento cirúrgico
+ou retirada de linha. Com a poliquimioterapia periódica guiada por testes de
+sensibilidade às drogas, e abordagens cirúrgicas, os pacientes podem obter
+bons resultados terapêuticos.
+
+Cardiac disorders, pregnancy and other surgical maneuvers can be risk factors of
+bacterial infective endocarditis[1-4].
+Increasingly utilization of foreign medical materials, indwelling catheter
+insertions and intravenous drug uses are recognized risk factors predisposing to
+bacterial infective endocarditis of the present era[5]. Continuous changes in terms of epidemiology and
+management strategies of the bacterial infective endocarditis have been
+elucidated[5].
+Staphylococcus aureus has become the most common microorganism
+of the bacterial infective endocarditis particularly associated with increasing
+foreign material implant[6], while Streptococcus viridans infections
+reduced[5].
+However, there is no updated elaboration on recent changes of mycobacterial
+endocarditis.
+
+Mycobacterial endocarditis is rare. It showed a significant predilection of
+non-tuberculous over tuberculous mycobacteria in terms of infective endocarditis.
+Due to more resistant to antimicrobial therapies than other pathogens, mycobacteria
+are often refractory to antimicrobial treatments and are associated with a very high
+mortalit[7].
+Rapid-growth non-tuberculous mycobacteria including Mycobacterium (M.) chelonae, M.
+abscessus and M. fortuitum accounted for 68% of the isolates[8] and thus being the predominant
+mycobacteria for the infections. There have been systemic reviews on infective
+endocarditis caused by M. fortuitum[7,9] in
+2002, and by M. abscessus[10] and M. chelonae[11] in recent years. Due to the rarity, regular
+management strategies are still scanty. As for the difficulty of pathogen
+identifications, poor responses to antimicrobial therapy and poor prognosis, this
+condition remains a challenge with regard to diagnosis and treatment. However,
+mycobacterial endocarditis has not been sufficiently elaborated. The present study
+is designed to highlight the clinical pictures of mycobacterial endocarditis based
+on relevant literature information published since 2000.
+
+MEDLINE, Highwire Press and Google search engine were searched for publications in
+the English language on mycobacterial endocarditis from 2000 to 2013. The terms
+"mycobacteria", "heart valve", "heart valve prosthesis", "tuberculous",
+"non-tuberculous" and "endocarditis" were used for the searches. All the articles,
+titles and subject headings were screened carefully for potential relevance.
+Articles were included if the patient had an established diagnosis of mycobacteria
+endocarditis on current admission and outcome data were reported.
+
+Due to the rarity of the condition, all the discovered articles reported only
+sporadic single or small series; no large population, comparative studies were
+retrievable. Therefore, data from this systematic review were qualitatively analyzed
+as suggested in the Quality of Reporting of Meta-Analyses recommendations.
+
+The search identified 31 relevant studies from 2000 to 2013[7,9-38],
+including 24 case reports[7,9,10,12,13,15,17-22,24-28,30-33,36-38], 2
+case series[14,23], 2 original
+articles[11,34], 1 medical
+imaging[16], 1
+poster abstract session[29], and 1 "letter to the editor"[35]. After reviewing selected
+articles, all 31 articles were included and no one was excluded. Data were extracted
+from the text, figures, or tables and included details of the study population,
+demographics, types of mycobacteria, sites of infections, locations of vegetations,
+latency, sensitivity, antimicrobial spectrum, management strategies, clearance time,
+follow-up length and main outcomes (survivals, complications, relapses,
+reinterventions and mortality).
+
+Quantitative data were presented as mean±standard deviation, and intergroup
+differences were compared by unpaired t-test. Comparisons of frequencies were
+performed by Fisher's exact test. P<0.05 was considered
+statistically significant.
+
+The patient setting included 50 patients with mycobacterial endocarditis. There
+were 29 males and 21 females with a male-to-female ration of 1.38:1. Their ages
+were 45.9±19.8 (range, 0.5-78; median 50) years (n=50). Age distribution of the
+patients conformed to the normal distribution by probability-probability
+plot.
+
+The major symptoms on admission were described in 46 patients including fever in
+35 (76.1%)[7,9-29,33,37,38],
+dyspnea in 10 (21.7%)[10,11,31,32]
+and chest pain in 1 (2.1%) patient[30] (χ 2=60.7, P=0.000). The
+duration of the symptoms was 4.0±4.4 (range, 0.17-18; median, 2) months (n=31).
+The temperature of the febrile patients were 38.9±0.8℃ (n=12). Of the febrile
+patients, fever grade was not indicated in 22[11,14,18,23,24,26,28,29,33,35,36,38].
+In the remaining 13 patients, 5 (38.5%) had a high fever[12,17,19,20,22,29],
+5 (38.5%) had a moderate fever[13,15,21,25,34]
+and 3 (23.1%) had a low-grade fever[9,27,37]
+(χ 2=0.9, P=0.630). Of them, 4 were prolonged
+fever[24,35,36] and 2 were fever of unknown
+origin[14,16].
+
+The cardiac murmur was mentioned in 15 patients: a cardiac murmur in 12 (80%) (a
+pansystolic murmur at the apex in 5[14,21,27,30,38],
+a diastolic murmur in the aortic region in 2[13,18], a systolic murmur in the aortic
+region[36], a
+pansystolic murmur at the apex + a diastolic murmur in the aortic
+region[25], a
+pansystolic murmur at the apex + a systolic murmur in the aortic
+region[15], a
+systolic murmur at the lower left sternal boarder[37] and an unspecified cardiac
+murmur[32] in 1
+patient each) and an absence of a cardiac murmur in 3 (20%)
+patients[20,22,24]
+(χ 2=10.8, P=0.001).
+
+Laboratory examinations revealed their hemoglobin was 9.9±1.8 (range, 5.9-12.5;
+median, 10) g/L (n=10)[9,10,12,13,15,18,20,27,30,36,38],
+white blood cell count was 8.9±4.4 (range, 3.3-16.8; median, 8.2)
+×109/L (n=13)[9,10,13,15,20-22,24,27,28,30,33,38],
+platelet count was 165.6±128.7 (range, 67-450; median, 124)×109/L
+(n=7)[10,13,15,18,20,27,38],
+C-reaction protein was 6.8±4.7 (range, 0.14-11; median, 8) mg/dL
+(n=4)[10,20,27,28], and CD4 was 240.5 ± 206.3 (range, 44-587; median
+196)/mm3 (n=6)[9,10,13,14,19,37].
+CD4 was normal (>500/mm3) in 1 (16.7%) patient, and was abnormal
+(<500/mm3) in 5 (83.3%) patients (χ 2=5.3,
+P=0.021).
+
+Cardiac surgery, foreign material implant, intravenous drug use and miscellaneous
+risk factors were the underlying etiologies for the development of infective
+endocarditis (χ 2=31.9, P=0.000) (Table 1). Of the causative cardiac
+operations, 23 (85.2%) were heart valve operations and 4 (14.8%) were congenital
+atrial/ventricular defect patch repairs (χ 2=26.7,
+P=0.000). There were 22 (95.7%) valve replacements and 1 (4.3%)
+valve repair (χ 2 = 38.4, P=0.000). Eighteen (81.8%)
+were single valve replacements, and 4 (18.2%) were double valve replacements (χ
+2=17.8, P=0.000); and 17 (77.3%) were first time
+valve replacements and 5 (22.7%) were redo operations (χ 2=13.1,
+P=0.001). A total of 26 valves were replaced including 13
+(50%) aortic and 13 (50%) mitral valve replacements; 20 (80%) were biological,
+and 5 (20%) were mechanical valve prostheses (χ 2 = 18,
+P=0.000), except the one whose detail of aortic valve
+prosthesis was not given.
+
+Predisposing risk factors
+
+AVR=aortic valve replacement; IDU=intravenous drug user;
+MVR=mitral valve replacement
+
+The latency from the presence of the predisposing risk factors to symptom onset
+was 21.9±25.9 (range, 0.067-96; median, 12) months (n=31)[7,9,11,12,14-18,20,21,23,26,27,31-33,37].
+There were 9 (29.0%) early onsets (latency <8 weeks), 2 (6.5%) intermediate
+onsets (latency was between 8 weeks and 8 months) and 20 (64.5%) late onsets
+(latency >8 months) (χ 2=23.9, P=0.000). The
+latency of the patients with cardiac operations was much shorter than that of
+the patients with a foreign material implant, but did not reach a statistical
+significance (16.4±20.1 months vs. 34.8±39.0 months, P=0.136).
+It was incompatible with intravenous drug use patients, of which latency was
+reported in only one patient, and was much shorter than that of the
+miscellaneity reaching a quasi-statistical difference (16.4±20.1 months vs.
+44±34.6 months, P=0.051) (Figure
+1). Bioprosthetic valve endocarditis was associated with a longer
+latency than mechanical without showing a significant difference (17.5±22.5
+months vs. 10.8±7.1 months, P=0.569). Four patients had a
+delayed diagnosis for 0.81±0.24 (range, 0.5-1; median, 0.88) months
+(n=4)[12,13,20,26].
+
+A comparison of latencies between different risk factors. IDU=
+intravenous drug use
+
+The infection sites could be divided into 5 types according the location and
+number of the mycobacterial infections: single intracardiac infection in 38
+(76%), two intracardiac infections in 9 (18%), and triple valve infections,
+single intracardiac + single extracardiac infections, and double intracardiac +
+single extracardiac infections in 1 (2%) patient, each (χ 2=128.5,
+P=0.000). Including extracardiac infections associated with
+the endocarditis, totally 64 sites were affected with a mean of 1.28±0.54
+(range, 1-3; median, 1) infection sites per patient. There were 1.24±0.48
+infection sites in the non-tuberculous and 1.75±0.96 infection sites in the
+tuberculous endocarditis patients (P=0.067). Native aortic,
+mitral and tricuspid valves were the most commonly affected sites of
+mycobacterial endocarditis, representing 29.7%, 26.6% and 10.9%, respectively
+(Figure 2). No difference was found in
+the prevalence of infection sites between non-tuberculous and tuberculous
+mycobacterial endocarditis (Table 2), or
+in the strain distributions between aortic and mitral valves (Table 3).
+
+Distribution of infection sites
+
+A comparison of infection sites between non-tuberculous and tuberculous
+mycobacterial infective endocarditis
+
+ASD=atrial septal defect; VSD=ventricular septal
+defect
+
+ A comparison of pathogens between aortic and mitral valve
+endocarditis
+
+Vegetations were detected in 44 patients with 43 detected by echocardiography and
+1 patient detected by positron emission tomography with 18F-fluorodeoxyglucose
+uptake[16]. Of
+them, 12 (27.3%) patients did not have a visualized vegetation[7,9,11,14,17,28,31],
+but one of them with an abscess along the inferior and septal walls,
+instead[31] and
+32 (72.7%) patients had (χ 2=18.2, P=0.000). The
+vegetation locations of the remaining 32 patients were mitral valve in 10
+(31.3%)[11,20,21,30,36,37]
+(two of them were in the prosthetic mitral valve)[20,1], aortic valve in 7 (21.9%)[11,13,18,32,33,38]
+(one was in the prosthetic aortic valve)[33], pacemaker lead in 3
+(12.5%)[16,26,27],
+tricuspid valve in 3 (9.4%)[10,19,35],
+both mitral valve and right subclavian catheter in 1 (3.1%)[36], both mitral and aortic
+valves in 2 (6.3%)[12,15],
+both aortic and tricuspid valves in 2 (6.3%)[22,24], mitral, aortic and tricuspid valves in 1
+(3.1%)[25],
+tricuspid valve and ventricular septal defect patch in 2 (6.3%)[35] and atrial septal patch in 1
+(3.1%) patient[23],
+respectively. The detection time for a positive vegetation was described in 3
+patients, which was 5[13], 21[20] and 105 days[15] after admission, respectively. Dimensions of
+the vegetations were recorded in 16 patients for 17 vegetations. Five
+vegetations of 5 patients from a single report[11] were recorded as "minimal", which were
+excluded from the calculation of the vegetation size. The size of the remaining
+12 vegetations of 11 patients was 19.7±18.4 (range, 5-70; median, 15.5)
+mm[10,15,18,20,23-26,30,32,37].
+Valve insufficiency was present in 23 (46%) patients: mitral valve regurgitation
+in 9 (39.1%)[11,30,31,37]
+(6 were prosthetic mitral valve leaks[11]), aortic valve regurgitation in 5
+(21.7%)[11,28,32]
+(4 were prosthetic aortic valve leaks[11,32]), aortic and mitral valve regurgitation in 5
+(21.7%)[11,12,14,38]
+(2 were prosthetic aortic and mitral valve leaks[11]) and tricuspid valve
+regurgitation in 4 (17.4%) patients[10,27,35].
+There were totally 11 (47.8%) native valve regurgitations and 12 (52.2%)
+prosthetic valve leaks (χ 2=0.1, P=0.768). Besides,
+one patient had inferior and septal wall abscess associated with mitral valve
+regurgitation[31] and one patient had ventricular septal patch
+dehiscence[35].
+
+The initial blood culture results were not indicated in 5
+patients[29,34].
+In the remaining 45 patients, a negative culture prevailed, followed by an
+acid-fast bacterium (Table 4).
+
+Thirty-seven patients had more investigations performed for strain
+identifications. Fourteen patients had more samples than blood for cultures: 7
+(50%) patients had one more sample, 4 (28.6%) patients had 2 more samples, 2
+(14.3%) patients had 3 more samples and 1 (7.1%) patient had 4 more samples for
+cultures, respectively. There were totally 25 additional samples for cultures
+including 4 (16%) intraoperative excised valves[12,18], or valve prosthesis[7], or prosthetic valve ring[14], 4 (16%) resected
+vegetations[27,30,35],
+3 (12%) sputum[27,28,34],
+2 (8%) bronchoalveolar lavage[14,27],
+2 (8%) urine[14,27],
+2 (8%) bone marrow[14,37],
+1 (4%) removed patch[35], removed pacing lead[26], intraoperative specimens (with no details
+available)[34],
+pacemaker generator pocket site[26], aspirated fluid[26], sternum[7], cerebrospinal fluid[37] and tracheal
+swab[15] for
+each, respectively. Lowenstein-Jensen medium was once used for valve, sternum
+and blood cultures[7]. Three (12%) were negative and 22 (88%) were positive
+(χ 2=28.8, P=0.000). The 22 positive cultures
+identified the strains to be M. fortuitum in 7 (31.8%),
+M. chimaera in 4 (18.2%), M. abscessus in
+3 (13.6%), M. chelonae in 2 (9.1%), M. neoaurum
+in 1 (4.5%), acid-fast bacilli in 2 (9.1%), rapidly growing
+mycobacteria in 1 (4.5%) and tubercule bacilli in 2 (9.1%), respectively. At
+least 15 (68.2%) cases were rapid growing mycobacteria infections.
+
+Seventeen patients (four of them had additional samples for cultures) had a
+positive histological staining results by Ziehl-Neelsen and auramine-rhodamine
+stains[12,17,18,27] with acid-fast organisms shown on fluorescence
+microscopy.
+
+Initial blood culture results
+
+Ten patients had a molecular analysis of the mycobacteria, where 16s ribosomal
+deoxyribonucleic acid sequencing was applied in 4 (40%)[14,20,21,23],
+reverse line blot hybridization in 4 (40%)[29] and a polymerase chain reaction-restriction
+fragment length polymorphism analysis in 2 (20%) patients [10,33], respectively. All patients had fresh
+samples, and one of them had additional cryopreserved samples for
+investigations. However, analyses on the cryopreserved samples disclosed
+negative results, while all fresh specimens displayed positive results. In
+addition, two patients had mycolic acid analysis by biochemical and
+chromatographic techniques[7,9].
+
+By preliminary blood cultures, histological staining, molecular analyses and
+chromatographic techniques, the eventual mycobacterial strains were identified
+in all but one patient (Figure 3).
+Distributions of the mycobacteria responding to the four predisposing risk
+factors showed cardiac operation was associated with more, prevailed rapidly
+growing mycobacteria (M. chelonae, M. fortuitum and M. chimaera) endocarditis,
+foreign material implant was associated with M. fortuitum, and intravenous drug
+use and miscellaneity were prone to be of tuberculous endocarditis (Figure 4, Table 5).
+
+Eventual mycobacterial strains
+
+Distributions of the mycobacteria responding to the four predisposing
+risk factors
+
+Pathogens corresponding to predisposing risk factors
+
+According to the antimicrobial spectrum, intravenous amikacin 300 mg twice daily,
+ciprofloxacin 400-500 mg twice daily and clarithromycin 500 mg twice daily were
+the most frequently used targeted antimicrobial agents, and imipenem (500 mg/6
+hours), linezolid, rifampicin and trimethoprim/sulfamethoxazole 160 mg/800 mg
+(p.o., thrice daily) were more frequently used for non-tuberculous mycobacterial
+infection; while ethambutol (20 mg/kg/day), isoniazid (10 mg/kg/day),
+pyrazinamide (25 mg/kg/day) and rifampicin (10 mg/kg/day) were for tuberculous
+mycobacterial infection. The antimycobacterial course was life in 2
+patients[18,35].
+In another 19 patients[10-13,22-24,26,28,33,34],
+the treatment course was indicated, which was 2.7±2.3 (range, 0.83-9; median,
+1.67) months. The clearance time interval was 31.8±58.4 (range, 2-210; median,
+12.5) days (n=12)[12,13,15,19-21,23,34,35].
+
+Patients were at a follow-up of 48.7±39.8 (range, 3-116; median, 32) months
+(n=23)[9,11,17,19-21,23,26,30,32,34].
+Totally 27 (50%) patients were event-free survivals[12,16,17,19,20,22-24,26,28,30,33-35],
+3 (6.25%) patients relapsed at 0.5, 5 and 10 months,
+respectivel[9,10,18],
+4 (6.25%) patients were complicated[21,25,29,32]
+and one of them required reintervention[32], which constituted the only reintervention
+of the whole setting, and 17 (34%) patients died[11-15,18,27,29,31,36-38]
+at 83.9±85.9 (range, 1-270; median, 64) days (n=11). The death causes were
+described in 8 patients, which were multiorgan failure in 2[12,15], and candidaemia and hospital-acquired
+pneumonia[36],
+persistent mycobacteremia and stroke[29], progressive heart failure[14], respiratory
+distress[37],
+splenic rupture[14]
+and variceal bleeding[31] in 1 patient, each.
+
+Two patients did not receive either medical or surgical treatment, but had a good
+prognosis in each. Of the remaining 48 patients, 32 (66.7%) patients received an
+antimicrobial therapy alone, 10 (20.8%) patients had a cardiac operation and 6
+(12.5%) patients had an intervention for removal of catheter/lead/defibrillator
+( χ 2=36.8, P=0.000).
+
+In the patients with medical treatment, there were 17 event-free
+survivals[11,19,22,30,34,35],
+11 deaths[11,13,14,29,31,37,38],
+2 complicated (spleen infarct, renal infarct and cerebral abscess on day 10, and
+prosthetic valve endocarditis due to coagulase negative staphylococcal species
+at 1 year in one patient[21]; and periaortic abscess in another[29]) and 2
+relapses[9,10].
+In the surgical treatment group, all patients received a valve replacement
+operation, including 2 aortic valve replacements (AVRs), 1 AVR with root
+replacement, 1 redo-AVR, 1 2nd redo-AVR, 2 AVRs + mitral valve
+replacements (MVRs), 1 AVR + MVR + tricuspid valvuloplasy, 1 2nd
+redo-AVR + MVR and 1 redo-MVR. There were 5 event-free
+survivals[12,17,20,28,33],
+3 deaths[12,18,29], 2 complicated (1 preoperative stroke and 1
+complication related with his previous ascending aortic
+replacement)[25,32],
+1 relapse[18] and 1
+reintervention[32]. In the patients with a catheter/lead/defibrillator
+removal, there were 3 event-free survivals[16,24,26]
+and 3 deaths[15,27,36].
+Time of deaths was described in 11 patients. There were 4 (36.4%) early deaths
+and 7 (63.6%) late deaths (χ 2=1.6, P=0.201).
+
+In 1959, Runyon[39],
+according to pigment of colony and rate of growth, divided mycobacteria into 4
+types: photochromogen, scotochromogen, nonphotochromogen and rapid grower. The
+latter one, rapidly growing mycobacterium, was defined so because the mycobacterial
+colonies form at 25-45&ºC on solid agar in 5-7 days. Both slowly and rapidly
+growing mycobacteria are environmental opportunistic mycobacteria that are normal
+inhabitants of natural waters, drinking water and soils[40]. The most important slowly
+growing species are M. avium and M.
+intracellulare, called the M. avium complex; and rapidly
+growing mycobacteria (M. abscessus, M. chelonae and M.
+fortuitum), which are opportunistic pathogens[40].
+
+Mycobacterial endocarditis is rare. In a recent report of infective endocarditis
+incorporating information from 13 tertiary hospitals in Turkey, no myocabacterial
+endocarditis was reported[41]. Wallace et al.[42] stated that the incidence of mycobacterial
+endocarditis was 33.3% (4/12) out of M. fortuitum or M.
+chelonae bacteria and was 3.2% of rapid growth mycobacterial blood
+infections. Olalla et al.[7] reviewed 19 cases of rapid growth mycobacterial
+endocarditis and noted that patients' age was 45 (range, 20-74) years, including 4
+native and 15 prosthetic valve endocarditis, with a biological valve prosthesis in 6
+and a mechanical valve prosthesis in 9 patients.
+
+The degree of fever may not correspond to the severity of the
+illness[43]. As it
+was illustrated in the present article, no dominance of fever grade was associated
+with mycobacterial endocarditis. Strabelli et al.[11] reported that the latent for the febrile onset
+and development of valve dysfunction was few days and months to years, respectively.
+In 5 of 13 patients with prosthetic mycobacterial endocarditis, the latent period
+for the diagnosis of bioprosthetic endocarditis was 1-4 years[11]. Olalla et al.[7] reported a latency of 12 weeks
+from infection to symptom onset with no difference found between biological and
+mechanical prosthetic valve endocarditis. The present study revealed a more broad
+patient age range from infant to 78 years old with a normal age distribution,
+equality of affected aortic and mitral valves, more native than prosthetic valve and
+more bioprosthetic than mechanical bioprosthetic endocarditis. Moreover, cardiac
+operations caused a shorter latency to endocarditis occurrence than foreign material
+implant and miscellaneous risk factors. Bioprosthetic valve endocarditis was
+associated with a longer latency than mechanical but lack of a significant
+difference. Kunin et al.[9] reported a prevailed early onset of mycobacterial
+endocarditis. Valve dysfunction was noted in 10 (76.9%) patients, while only 3
+(23.1%) patients were free of valve dysfunction (χ 2=12.5,
+P=0.001). The present study demonstrated a predominant late
+onset and a decreased incidence of valve dysfunction.
+
+The most common predisposing risk factors for mycobacterial infections include
+medical procedures (central venous access, hemodialysis catheter indwelling, various
+surgical operations including mammoplasty, arthroplasty and cardiothoracic
+operations)[9],
+immunocompromised, particularly patients with human immunodeficiency virus/acquired
+immunodeficiency syndrome, hematological malignancies, or those treated with
+immunosuppressive drugs after solid organ transplantation[44]. More recently, the use of tumor
+necrosis factor-αblockers has become an additional risk factor[45]. Line-related non-tuberculous
+infections did not have any predominant organisms including M. abscessus, M.
+chelonae, M. neoaurum, M. fortuitum and M.
+mucogenicum[34]. Further, possible manufacturer contamination of
+bioprosthesis by M. chelonea has been recognized[46]. In addition, nosocomial
+infections were once evidenced from sources like cardioplegic
+solutions[47],
+water suppl[48],
+antiseptic solutions[49] and valve prosthesis preservation
+solutions[50].
+
+Positivity of blood cultures varied according to types of affected valves. It was 75%
+in mechanical, 20% in biological and 100% in native valves[7]. Removed valve prostheses showed
+a high positivity of mycobacterial cultures[48]. Upon colonial growth, gram and acid-fast stains
+should be performed, and then when blood cultures are negative, acid-fast bacilli
+stains on histological examination of the removed prosthetic valves[11] and Ziehl-Neelsen stain should
+be employed, followed by subcultures[40].
+
+Mycobacteria are more resistant to chemical disinfection than other
+pathogens[11].
+Infective endocarditis caused by rapidly growing mycobacteria is always refractory
+due to extensive drug resistance and substantially delayed
+diagnosis[36]. The
+poor response to therapy can be a result of various factors that may lead to drug
+resistance, including the presence of biofilms, type of antimicrobial agent used and
+presence of a novel inducible erm(41) gene[51]. With periodic multidrug therapy guided by drug
+susceptibility testing, patients may achieve good therapeutic
+results[51].
+Therefore, antimicrobial susceptibility tests of the isolates are of important
+clinical significance[36]. The management of rapidly growing mycobacteria is
+usually an empiric therapy with two agents and a successive targeted regimen
+according to drug sensitivity tests[9]. Amikacin was the most reliable agent for the treatment of
+non-tuberculous mycobacteria and alternative effective agents included
+ciprofloxacin, clarithromycin, imipenem and linezolid[34]. Non-tuberculous mycobacteria
+are more sensitive to some antibiotics than other rapidly growing
+mycobacteria[32].
+Clarithromycin was proved to be sensitive to M. abscessus/chelonae. Moxifloxacin was
+discovered to be the best to treat M. fortuitum infections, very active against M.
+chelonae when used alone and more effective against all the strains when combined
+with clarithromycin and amikacin[52]. A combined use of clarithromycin with moxifloxacin or
+linezolid at a high concentration (16 µg/ml) also displayed activity against M.
+abscessus[51].
+Disseminated infections with atypical mycobacteria often develop in
+immunocompromised patients with reduced CD4 count and complement
+levels[37]. A
+combined antimicrobial therapy with prolonged treatment duration is often the
+regimen of choice. Amikacin and imipenem have been proved to be effective agents for
+the disseminated cases[32].
+
+Patients with deep infections of rapidly growing mycobacteria often warrant a
+surgical intervention including line removal, debridement, or removal of the foreign
+material[34]. An
+improved survival was advocated to be associated with surgical
+interventions[33],
+whereas some patients with conservative managements failed to
+survive[13]. In the
+patient series of Olalla et al.[7] reported in 2002, 15 of 19 cases of M.
+fortuitum complex (M. fortuitum and M.
+chelonae) endocarditis were prosthetic valve endocarditis and valve
+replacement was performed in 8 (42.1%) patients with an overall mortality of 88%.
+Recently, Strabelli et al.[11] reported 13 patients with M. chelonae
+endocarditis received a valve replacement and an overall mortality was decreased to
+23.1% (3/13) including 1 (7.7%) early and 2 (15.4%) late deaths. Exceptionally, a
+few patients did not receive any antimicrobial treatment and patients were at
+long-term event-free survival[11]. These results implied that foreign material implant
+becomes an apparent risk factor for infective endocarditis, and usage of higher dose
+and combined antimicrobial regimens with reference to the mycobacterial species and
+surgical treatment can lead to improved outcomes.
+
+The rarity of this condition as well as the relevant published materials made this
+study a limited patient population. Abundant valuable date in the future may
+replenish the research with more accurate results.
+
+Mycobacterial endocarditis is rare but dreadful. The rapidly growing mycobacteria
+become the predominant pathogens with chelonae being the most
+common. This condition has changed significantly in terms of epidemiology since the
+21st century, with more broad patient age range, longer latency,
+prevailed mitral valve infections and better prognosis. The better prognoses than
+before might be attributed to the faster strain identification molecular techniques,
+higher dose of antimicrobial agents, periodic multidrug therapy guided by drug
+susceptibility testing and more requirements of surgical interventions.

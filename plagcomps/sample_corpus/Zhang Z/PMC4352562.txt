@@ -1,0 +1,132 @@
+Clonal dissemination of linezolid-resistant Staphylococcus capitis with G2603T mutation in domain V of the 23S rRNA and the cfr gene at a tertiary care hospital in China. by Zhou W ,Niu D ,Cao X ,Ning M ,Zhang Z ,Shen H ,Zhang K
+The present study aims to investigate the potential mechanism of linezolid-resistant Staphylococcus capitis (LRSC) isolates collected from our hospital.
+
+The susceptibilities of 5 Staphylococcus capitis isolates displaying resistance towards linezolid were determined by E-test. Polymerase chain reactions (PCRs) and DNA sequencing were used to investigate the potential molecular mechanism. Clonal relatedness between these strains was analyzed by pulsed-field gel electrophoresis (PFGE).
+
+The MICs of linezolid on these 5 isolates were >256 μg/mL. The G2603T mutation was observed in the domain V of the 23S rRNA with cfr gene being also widely detected among these 5 strains. PFGE analysis displayed close genetic relatedness between these linezolid-resistant isolates.
+
+The emergence of LRSC isolates carrying G2603T mutation in the domain V of the 23S rRNA and harboring cfr gene in our hospital may pose a potential challenge to the public health.
+
+Linezolid is the first member of an entirely new class of antibiotics that can inhibit bacterial protein synthesis by binding to the 50S subunit of the bacterial ribosome via interaction with the 23S rRNA of gram-positive bacteria [1]. Based on the unique mechanism of action, it is highly effective in the treatment of serious infections caused by antibiotic resistant gram-positive bacteria such as methicillin-resistant Staphylococcus aureus and vancomycin-resistant enterococci [1]. At the introduction of linezolid, it was claimed that there would be no cross-resistance to linezolid and resistance would be rare and difficult for the bacteria to develop. However, linezolid-resistant staphylococci and enterococci have been increasingly reported in recent years [2-5], since the first case report on the emergence of linezolid-resistant MRSA in North America in 2001 [6].
+
+The mutations at the central loop of the domain V region on the 23S rRNA gene have been well recognized as the main mechanism mediating resistance to linezolid [6,7]. The acquisition of the chloramphenicol-florfenicol resistance (cfr) gene encoding the 23S rRNA methyltransferase and modifying adenosine at position 2503 in the 23S rRNA has been frequently reported [2]. In addition, mutations or deletions in genes encoding the 50S ribosomal subunit proteins L3 or L4 have also played important role [8-10]. Up to date, the linezolid-resistant coagulase-negative Staphylococcus (LRCoNS) isolates have frequently emergenced among patients in many countries including North America (USA, Mexico), South America (Brazil), Europe (Greece, Spain, Italy, France, and Ireland), and Asia (India) [2,5,7,8]. However, such strains have rarely been reported in China [3,4,11], especially for the linezolid-resistant Staphylococcus capitis (LRSC) isolates [12]. In the present study, we report the emergence and potential clonal dissemination of 5 LRSC isolates among a tertiary care hospital of China.
+
+A total of 29 LRSC isolates were continuously recovered from the blood (n = 28) and catheter (n = 1) from 5 hospitalized patients in 2 different wards at Nanjing Drum Tower Hospital (Nanjing, China) between September, 2012 and February, 2014. Among them, 5 LRSC isolates recovered from the blood (n = 4) and catheter (n = 1) were further analyzed in this study. And 4 linezolid-susceptible S. capitis (LSSC) isolates (SA01, SA02, SA03, SA04) from 2 wards during the same period were used as control. Blood culture was implemented according to the principle of double-sided bottles, the blood samples were processed using the BacT/Alert automated system (bioMerieux, France) and subcultured on Colombia plate containing 5% sheep blood (bioMerieux, France). Catheter tips were inoculated on Colombia blood agar by roll pate method. Coagulase-negative Staphylococcus were identified by colony morphology, gram staining, catalase testing and coagulase assays. The confirmation of Staphylococcus capitis was performed by using Vitek 2 Compact GP card (bioMerieux, France) combined with additional sequencing for the 16S ribosomal ribonucleic acid (16S rRNA) gene as described below. Clinical data such as the clinical features, laboratory results, and treatment were retrieved from the medical records department. The study protocol was approved by the Ethics Committee of Nanjing Drum Tower Hospital and written informed consent was obtained from all patients included in the study.
+
+Chromosomal DNA was extracted from overnight cultures of these isolates grown on Colombia plate containing 5% sheep blood (bioMerieux, France) using the Qiagen DNA mini kit (Qiagen, Hilden, Germany), according to the manufacturer’s instructions. Molecular identification of the strains was performed by PCR with primes of 5′-AGA GTT TGA TCM TGG CTC AG-3′ and 5′-TAC GGY TAC CTT GTT ACG ACT T-3′, which generated a 1.4- kilobase-pair (kbp) amplicon. Amplification was carried out using Ex Taq™ DNA polymerase (TaKaRa) according to the manufacturer’s instruction. The 25 μl reaction mixture for the PCR assays contained the following: 10 mM Tris/HCL (pH 8.3), 50 mM KCl, 1.5 mM MgCl2, 200 μM deoxynucleotide triphosphate and 25 pmol of each primer. Amplification conditions were as follows: 95°C for 5 min, followed by 30 cycles of 95°C for 30 s, 55°C for 30 s and 72°C for 1 min as well as 72°C for 10 min. PCR products were sequenced by using an ABI 3730XL fluorescence sequencer (Applied Biosystems, Foster City, Calif.) after they were purified by using the purification kit (Qiagen, Hilden, Germany).
+
+Antimicrobial susceptibility testing was performed by using the disc diffusion tests (Oxoid) on Mueller Hinton agar (bioMerieux, France) according to Clinical and Laboratory Standards Institute guidelines [13], with the following antibiotics being included: penicillin (30 μg), ampicillin (10 μg), gentamicin (10 μg), ciprofloxacin (5 μg), levofloxacin (5 μg), chloromycetin (30 μg), tetracycline (30 μg), cefoxitin (30 μg), trimethoprim-sulfamethoxazole (25 μg), erythromycin (15 μg), clindamycin (15 μg), ofloxacin (5 μg), amikacin (30 μg), rifampicin (5 μg) and linezolid (30 μg). Minimum inhibitory concentrations (MICs) of vancomycin, teicoplanin, tigecycline, quinupristin/dalfopristin, clindamycin and linezolid were determined using CLSI agar dilution methodology and the MICs of linezolid on the 5 LRSC isolates was also determined by E-test (AB Biodisk, Solna, Sweden). S. aureus ATCC 25923 and 29213 were used as the quality controls in parallel.
+
+Amplification for cfr gene, the domain V of the 23S rRNA gene and the genes encoding ribosomal proteins L3, L4 and L22 was implemented as previously described by Mendes et al. [8]. The amplicons were purified by using Qiagen DNA purification kit (Qiagen, Hilden, Germany) and subjected to sequencing. The sequence similarity was determined by using the BLAST program from the National Center for Biotechnology Information (http://blast.ncbi.nlm.nih.gov/Blast.cgi).
+
+PFGE was carried out according to the protocol described by Yang et al. [11] with the CHEF Mapper XA system (Bio-Rad). Briefly, genomic DNA was digested with Sma-I and electrophoresis was conducted at 6 V/cm for 22 h at 14°C, with initial and final pulses conducted for 3.0 and 40.0 s, respectively. The PFGE types were defined on the basis of DNA banding patterns according to the criteria of Tenover et al. [14].
+
+29 LRSC isolates were collected from these 5 patients. The number of samples taken from each patient and the no. of isolates taken has been showed in Table 1. However, we just took 5 strains including SA10106, SA13096, SA23062, SA20062, and SA11026 from these 5 patients respectively for further analysis in our study. As it was shown in Table 2, medical records showed that SA10106 and SA13096 out of the 5 LRSC isolates were isolated from different wards during the same time period, SA23062 and SA20062 from the same wards during the near time period. However, SA11026 was isolated in 2014, which was quite later than the previous 4 isolates. It’s noteworthy that 4 LRSC isolates were collected from ICU, only 1 from the department of infectious diseases. In addition, among the 5 patients carrying LRSC isolates, 3 ones received linezolid for treatment which lasted more than 13 days with the total dosage being above 7.8 g.Table 1
+The number of samples taken from each patient and the corresponding strain codes
+
+Patient
+
+Ward
+
+Strains isolated
+
+Resource
+
+Collection date (yy/mm/dd)
+1ICUSA10106catheter of femoral vein2012/9/10SA11055blood2012/9/11SA11056blood2012/9/11SA11057blood2012/9/11SA11058blood2012/9/112IDDSA13096blood2012/9/13SA13097blood2012/9/13SA13098blood2012/9/13SA13099blood2012/9/133ICUSA23062blood2013/6/23SA23063blood2013/6/23SA23064blood2013/6/23SA23065blood2013/6/23SA25077blood2013/6/25SA25078blood2013/6/25SA25079blood2013/6/25SA25080blood2013/6/254ICUSA20062blood2013/7/20SA20063blood2013/7/20SA20064blood2013/7/20SA20065blood2013/7/20SA22101blood2013/7/22SA22102blood2013/7/22SA22103blood2013/7/22SA22104blood2013/7/225ICUSA11026blood2014/2/11SA11027blood2014/2/11SA11028blood2014/2/11SA11029blood2014/2/11Note: ICU: intensive care unit; IDD: the department of infectious diseases.Table 2
+Clinical and resistant characteristics of clinical linezolid-resistant
+Staphylococcus capitis
+
+Strain designation
+
+Ward
+
+Resource
+
+Isolation(yy/mm/dd)
+
+Linezolid usage (total dose/days)
+
+MIC ( μg/mL)
+
+cfr
+
+Mutations in domain V of the 23S rRNA gene
+
+LZD
+
+VAN
+
+Q/D
+
+CLI
+SA10106ICUcatheter2012/9/107.8 g/13 days>2561>=82+G2603TSA13096IDDblood2012/9/13–>256<=0.5>=82+G2603TSA23062ICUblood2013/6/238.4 g/14 days>2561>=82+G2603TSA20062ICUblood2013/7/2013.2 g/22 days>256<=0.5>=82+G2603TSA11026ICUblood2014/2/11–>256<=0.5>=82+G2603TNote: ICU: intensive care unit; IDD: the department of infectious diseases; LZD: linezolid; VAN: vancomycin; Q/D: quinupristin/dalfopristin; CLI: clindamycin; −, no linezolid treatment.
+
+
+The number of samples taken from each patient and the corresponding strain codes
+
+
+Note: ICU: intensive care unit; IDD: the department of infectious diseases.
+
+
+Clinical and resistant characteristics of clinical linezolid-resistant
+Staphylococcus capitis
+
+
+Note: ICU: intensive care unit; IDD: the department of infectious diseases; LZD: linezolid; VAN: vancomycin; Q/D: quinupristin/dalfopristin; CLI: clindamycin; −, no linezolid treatment.
+
+Further 16S rRNA sequencing and analysis confirmed that all the 5 LRSC isolates and the 4 LSSC isolates belonged to S. capitis, which was in accordance with conventional method. The phylogenetic tree constructed by neighbor-joining method showed the position of our isolates with respect to S. capitis strain BQEP2-01d with the accession number of FJ380956.1.
+
+Similar multidrug-resistant phenotypes were observed in the 5 LRSC isolates (Table 2). All the 5 isolates were resistant to linezolid indicated both by disk diffusion testing and by the E-test. However, the MICs of vancomycin and teicoplanin were ≤ 2 μg/mL, and the MICs of tigecycline were 0.25 μg/mL. In contrast, all the LSSC isolates showed susceptible to the antimicrobial agents tested which are quite different from the susceptibilities of LRSC isolates.
+
+PCR mapping and sequencing results showed that G2576T, the most common mutation in domain V of the 23S rRNA gene [10], was not be detected in all of the 5 LRSC isolates. However, a new mutation, G2603T, which had not been previously reported in S. capitis, was observed in these 5 isolates with the cfr gene being simultaneously prevalent among them (Table 2), while none of the 4 LSSC isolates carried cfr gene and had mutations in the 23S rRNA. Moreover, the mutations in the L3, L4 or L22 were not detected among LRSC isolates in our current study. The genetic relationship between these LRSC strains (Figure 1) revealed a clonal dissemination of LRSC isolates as displayed by the identical Sma-I digestion patterns.Figure 1
+PFGE profiles of
+Staphylococcus capitis
+obtained with
+Sma-I
+. M, λ molecular marker; Line 1, SA10106; Line 2, SA13096; Line 3, SA23062; Line 4, SA20062; Line 5, SA11026; Line 6, SA01; Line 7,SA02; Line 8, SA03; Line 9, SA04.
+
+
+PFGE profiles of
+Staphylococcus capitis
+obtained with
+Sma-I
+. M, λ molecular marker; Line 1, SA10106; Line 2, SA13096; Line 3, SA23062; Line 4, SA20062; Line 5, SA11026; Line 6, SA01; Line 7,SA02; Line 8, SA03; Line 9, SA04.
+
+With the frequent use of linezolid in clinical treatment, the LRCoNS strains have been increasingly isolated from health care setting. In this study, we report the linezolid resistance mediated by the G2603T mutations accompanied the prevalence of cfr genes in LRSC isolates and a clonal dissemination of LRSC strain among 5 patients at a tertiary-care hospital between September 2012 and February 2014 in Nanjing, Jiangsu province of China.
+
+As it has been previously reported, LRCoNS isolates only kept sensitivities to vancomycin, teicoplanin, tetracycline, tigecycline and rifampicin in vitro [2]. Previous report showed that LRCoNS strains were isolated with the mean time of 11.0 ± 8.0 days after patients were treated with linezolid, although in a few cases, the resistant strains were acquired as a result of cross-infection [2]. This may provide further evidence to the proposal that the linezolid usage is an independent risk factor for development of LRCoNS strains [5]. This has been partly evidenced by the founding in our study that 3 out of 5 patients carrying LRSC isolates received linezolid therapy at least for 13 days with a total dose of 7.8 g before the isolation of LRSC. Taking into account of the isolation of the same LRSC clone among these 5 patients and the time periods of the strains being isolated, we speculate that it may be a clonal dissemination of LRSC strain [15].
+
+Generally, cfr methylation confers resistance to 5 classes of 50S ribosomal subunit-targeted antibiotics defined by the PhLOPSA phenotype, including phenicols, lincosamides, oxazolidinones, pleuromutilins, and streptogramin A [10]. And cfr-carrying staphylococci therefore display multi-drug resistant phenotype, which is in agreement with the resistance profiles of our isolates (Table 2). Noteworthily, the cfr gene has been found primarily on plasmids, which can be transferred between staphylococci. In a recent paper, cfr gene has been described to play a decisive role in mediating resistance to linezolid [11]. The identification of a high incidence of cfr among our LRSC strains indicates a probability of horizontal gene transfer, which alerts us the necessity of strengthening the implementation of infection and control measures.
+
+Additionally, previous studies demonstrated that △His 146 and Gly155Arg in L3 in laboratory-derived S. aureus and mutations within a conserved region of the L4 protein (63KPWRQKGTGRAR74) have been associated with cross-resistance to linezolid in Streptococcus pneumoniae, S. aureus and Clostridium perfringes [9,16,17]. Nevertheless, such resistance mechanisms were not detected in ribosomal proteins L3, L4 or L22 of the 5 LRSC isolates in our study. Instead, we observed a novel mutation in the 23S rRNA gene [G(2603)T] which is quite different from the frequent mutations in the central loop of domain V of the 23S rRNA in most linezolid-resistant isolates, such as enterococci and staphylococci. As far as we know, G2528U, G2576U, and G2505A have been identified in linezolid-resistant enterococci, G2447U and G2576U in linezolid-resistant S. aureus [2,10], and C2534T, G2447T, G2576T, T2504A, C2109T and G2474T in the increasing LRCoNS which was correlated with nosocomial transmission [2]. It’s worthy to note that the most common mutation in domain V of the 23S rRNA gene, G2576T, was also not detected in our 5 LRSC isolates, whereas, G2603T was detected in all these 5 isolates. And the presence of G2603T mutation has been reported to be crucial for conferring resistance to linezolid in S. epidermidis [18] and S. hominis subsp. hominis [19]. However, there has been no report on the G2603T mutation in S. capitis isolate so far. In addition, it was found that the degree of linezolid resistance is associated with the number of mutations occurring in the copies of the 23S rRNA coding gene [20]. In our study, the entire 23S rRNA gene of the LRSC isolates were not sequenced for all copies, it is possible that other resistance mechanisms may co-exist in these strains.
+
+S. capitis has been involved in biofilm related infections such as endocarditis, urinary tract infection, and catheter-related bacteremia. Hospital outbreaks caused by LRCoNS have been reported in the United States, Ireland, and Spain [21]. It has also been reported that S. capitis is emerging as an opportunistic pathogen in newborn babies [22]. The presence of LRSC isolates in healthcare setting therefore has been a major concern based on the bacteremia and catheter-related infections that they frequently caused. Since resistance has most commonly occurred in most patients undergoing long-term linezolid therapy [2], and the heavy use of linezolid in the patients may create substantial selection pressure in favor of linezolid-resistant isolate [5]. Thus, prudent use of linezolid in clinical treatment becomes very important.
+
+In conclusion, the prevalence of cfr gene and the existence of G2603T mutation together lead to the resistance of our strains to linezolid. In addition, the clonal dissemination of such LRSCs may pose a potential threat to the public health.
+
+Linezolid-resistant S. capitis
+
+Minimum inhibition concentrations
+
+Pulsed-field gel electrophoresis
+
+Linezolid-resistant coagulase-negative Staphylococcus
+
+Linezolid-susceptible S. capitis
+
+Wanqing Zhou and Dongmei Niu contributed equally to this work.
+
+
+Competing interests
+
+
+The authors declare that they have no competing interests.
+
+
+Authors’ contributions
+
+
+WZ and KZ performed design, contributed to the acquisition, analysis and interpretation of data and drafted the manuscript. DN assisted in the experiment, analysis and coordination of the project. MN and ZZ participated in strain identification. HS and XC participated in the PFGE analysis. All authors read and approved the final manuscript.
+
+This study was supported by the Youth Fund of Natural Science Foundation of Jiangsu Province (Grant No. BK2014099) and the Fundamental Research Funds for the Central Universities (Grant No. 206201400655).

@@ -1,0 +1,171 @@
+{% extends "base.html" %}
+
+{% block further_head %}
+<link href="/static/css/view_doc.css" rel="stylesheet" media="screen">
+<script src="/static/js/popover.js"></script>
+<script src="/static/js/tooltip.js"></script>
+<script src="/static/js/view_doc.js"></script>
+<script src="/static/js/jquery.js"></script>
+<script src="/static/js/highcharts.js"></script>
+{% endblock further_head %}
+
+{% block content %}
+<div class="container">
+    <h1>Where's the plag?</h1>
+    <div class="jumbotron">
+        <small>
+            <p>Atom Type: {{ atom_type }} </p>
+            <p>Cluster Method: {{ cluster_method }} </p>
+            <p>k: {{ k }} </p>
+        </small>
+
+        <button type="button" class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#full_table">
+            Hide/Show Table
+        </button>
+
+        <div class="row collapse in" id="full_table">
+            <div class="col-md-9">
+                <div class="table-responsive" style="font-size:12px;">
+                    <table class="table table-condensed table-scrollable table-bordered">
+                        <thead>
+                        <tr>
+                            <th>Start Index</th>
+                            {% for feature in features %}
+                            <th>{{ feature }}</th>
+                            {% endfor %}
+                            <th>Plag. Conf.</th>
+                            <th>Plag. Span</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        {% for passage in passages %}
+                        <tr class="passage_starting_at_{{ passage.start_word_index }}">
+                            <td class="passage_row"> {{ passage.char_index_start }}</td>
+                            {% for feature in passage.features %}
+                            <td class="passage_row"> {{ "%.4f"| format(passage.features[feature]) }}</td>
+                            {% endfor %}
+
+                            {% if passage.plag_confidence %}
+                            <td class="passage_row"> {{ "%.4f"| format(passage.plag_confidence) }}</td>
+                            {% endif %}
+
+                            {% if passage.plag_spans|length > 0 %}
+                            <td class="passage_row"> {{ "(%i, %i)"| format(passage.plag_spans[0][0],
+                                passage.plag_spans[0][1]) }}
+                            </td>
+                            {% else %}
+                            <td class="passage_row"></td>
+                            {% endif %}
+                        </tr>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-9">
+
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        {{ doc_name }}
+                    </div>
+                    <div class="panel-body" id="document_content">
+                        <p>
+                            {% for passage in passages %}
+                            {% if passage.plag_confidence > 0.85 %}
+                        <div class="passage" features="{{ passage.to_html() }}"
+                             style="font-size:14px;display:inline;color:rgb(0,0,255);">
+                            {{ passage.format_text_with_underlines()|safe }}
+                        </div>
+                        {% endif %}
+                        <div class="passage" features="{{ passage.to_html() }}" style="font-size:14px;display:inline;;color:rgb(0,0,0);">
+                            {{ passage.format_text_with_underlines()|safe }}
+                        </div>
+                        {% if atom_type == 'paragraph' %}
+                        <br/>
+                        {% endif %}
+
+                        {% endfor %}
+                        </p>
+                    </div>
+
+                </div>
+                <br>
+                <div id='chart' style="height: 100px; width: 750px"></div>
+                </br>
+            </div>
+
+            <div class="col-md-3">
+                <div class="panel panel-default" data-spy="affix" id="feature_panel" data-offset-top="400"
+                     data-offset-bottom="200">
+                    <div class="panel-heading">
+                        Passage Details
+                    </div>
+                    <div class="panel-body" id="feature_box" style="font-size:12px">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+function contains(a, obj) {
+    var i = a.length;
+    while (i--) {
+       if (a[i] === obj) {
+           return true;
+       }
+    }
+    return false;
+};
+plag_cats = {{ plag_cats|safe }};
+function updateFeatureBox(text) {
+        $('#feature_box').html(text);
+    };
+var points = [{% for passage in passages %}"{{ passage.char_index_start }}"{% if not loop.last %},{% endif %}{% endfor %}];
+	$(document).ready(function() {
+				$('#chart').highcharts({
+		chart: {{ chart|safe }},
+		title: {{ title|safe }},
+
+        xAxis:{categories: {{ categories|safe }},labels:{
+            formatter: function(){
+                if(contains(plag_cats,this.value)) {
+                    return '<span style="fill: red;">' + this.value + '</span>';
+                }
+                   else {
+                    return this.value;
+
+                    }
+                }
+            }
+        },
+
+
+		yAxis: {{ yAxis|safe }},
+		series: {{ series|safe }},
+		plotOptions: {
+            series: {
+                cursor: 'pointer',
+                point: {
+                    events: {
+                        click: function () {
+                        var a = points.indexOf(this.category);
+                        var txt = document.getElementsByClassName("passage")[a].getAttribute("features");
+                        updateFeatureBox(txt);
+                        }
+                    }
+                }
+            }
+        }
+	});
+});
+
+
+</script>
+
+{% endblock content %}

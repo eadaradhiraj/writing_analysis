@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="container" xmlns="http://www.w3.org/1999/html">
+    <h1>Pick your plag</h1>
+    <div class="jumbotron">
+
+        <div class="form-group">
+            <form action='/view_doc'>
+                <select name="doc">
+                    {% for doc in docs %}
+                    <option value='{{ doc[0] }}'>{{ doc[0] }}</option>
+                    {% endfor %}
+                </select>
+
+                <div class="form-group">
+                    <select name="k">
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+
+                    <select id="features" name="features" multiple>
+                    </select>
+
+                    <!--<select name="similarity_measure">
+                        {% for similarity_measure in similarity_measures %}
+                        <option value="{{ similarity_measure[0] }}">{{ similarity_measure[0] }}</option>
+                        {% endfor %}
+                    </select>-->
+
+                    <select name="cluster_method">
+                        {% for cluster_method in cluster_methods %}
+                        <option value="{{ cluster_method[0] }}">{{ cluster_method[0] }}</option>
+                        {% endfor %}
+                    </select>
+
+                    <br>
+                    {% for atom_option in atom_options %}
+                    <input type="radio" class="atomClass" name="atom" value="{{ atom_option[0] }}"> {{ atom_option[0] }}<br>
+                    {% endfor %}
+                </div>
+
+                <div class="form-group">
+                    <input type='submit' value='Select'>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+if ('undefined' == typeof window.jQuery) {
+
+   alert("Jquery is not loaded");
+
+} else {
+
+
+
+$('.atomClass').change(function(event) {
+which = $(this).val();
+switch(which){
+case "paragraph":
+
+$("#features").empty();
+
+{% for feature in para_features %}
+
+$('#features').append($("<option></option>").attr("value","{{ feature[0] }}").text("{{ feature[0] }}"));
+
+{% endfor %}
+
+break;
+case "sentence":
+
+$("#features").empty();
+
+{% for feature in sent_features %}
+
+$('#features').append($("<option></option>").attr("value","{{ feature[0] }}").text("{{ feature[0] }}"));
+
+{% endfor %}
+break;
+case "word":
+$("#features").empty();
+
+{% for feature in word_features %}
+
+$('#features').append($("<option></option>").attr("value","{{ feature[0] }}").text("{{ feature[0] }}"));
+
+{% endfor %}
+
+break;}
+});
+}
+
+</script>
+{% endblock content %}

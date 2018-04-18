@@ -1,0 +1,460 @@
+Postperfusion lung syndrome: physiopathology and therapeutic options. by Yuan SM
+Postperfusion lung syndrome is rare but can be lethal. The underlying mechanism
+remains uncertain but triggering inflammatory cascades have become an accepted
+etiology. A better understanding of the pathophysiology and the roles of inflammatory
+mediators in the development of the syndrome is imperative in the determination of
+therapeutic options and promotion of patients' prognosis and survival. Postperfusion
+lung syndrome is similar to adult respiratory distress syndrome in clinical features,
+diagnostic approaches and management strategies. However, the etiologies and
+predisposing risk factors may differ between each other. The prognosis of the
+postperfusion lung syndrome can be poorer in comparison to acute respiratory distress
+syndrome due to the secondary multiple organ failure and triple acid-base imbalance.
+Current management strategies are focusing on attenuating inflammatory responses and
+preventing from pulmonary ischemia-reperfusion injury. Choices of cardiopulmonary
+bypass circuit and apparatus, innovative cardiopulmonary bypass techniques, modified
+surgical maneuvers and several pharmaceutical agents can be potential preventive
+strategies for acute lung injury during cardiopulmonary bypass.
+
+Síndrome pós-perfusão pulmonar é rara, mas pode ser letal. O mecanismo subjacente
+permanece incerto, mas desencadear cascatas inflamatórias tornou-se uma etiologia
+aceita. É imperativo uma melhor compreensão da fisiopatologia e os papéis de
+mediadores inflamatórios no desenvolvimento da síndrome na determinação de opções
+terapêuticas e de promoção do prognóstico e sobrevida dos pacientes. Síndrome
+pós-perfusão pulmonar é semelhante à síndrome da angústia respiratória do adulto em
+características clínicas, métodos diagnósticos e estratégias de gestão. No entanto,
+as etiologias e fatores de risco predisponentes podem ser diferentes entre si. O
+prognóstico da síndrome pós-perfusão pulmonar pode ser mais pobres em comparação com
+síndrome da angústia respiratória aguda, devido à falência de múltiplos órgãos
+secundária e desequilíbrio ácido-base triplo. Estratégias de gestão atuais centram-se
+em atenuar reações inflamatórias e impedir lesão pulmonar de isquemia-reperfusão.
+Escolhas do circuito de circulação extracorpórea e aparelhos, técnicas inovadoras de
+circulação extracorpórea, manobras cirúrgicas modificadas e vários agentes
+farmacêuticos podem ser potenciais estratégias preventivas para lesão pulmonar aguda
+durante a circulação extracorpórea.
+
+Acute respiratory distress syndrome (ARDS), also known as respiratory distress syndrome,
+adult respiratory distress syndrome, or shock lung, is a fatal pulmonary parenchymal
+disorder as sequelae of respiratory infection, trauma, or stress triggered by pulmonary
+cytokine release, impaired endothelial barriers and surfactant deficiency resulting in
+fluid accumulation in the distal airspaces, fibrotic changes and eventually impaired gas
+exchange. The ARDS that develops early after cardiopulmonary bypass (CPB) is known as
+postperfusion or post-pump syndrome, which remains a significant clinical problem on
+those patients receiving heart operations under CPB[1]. In the early years, postperfusion lung syndrome was taken as a
+prerequisite condition of cardiac surgical patients that may develop into ARDS if it is
+not properly treated[2]. However, this
+argument is not supported by modern theories. Postperfusion lung syndrome is rare but
+refractory. It was reported that the incidence of postperfusion lung syndrome was
+1-2%[3], but the mortality could
+be as high as 91.6%, with 70% patients developing multiple organ failure[4]. An early diagnosis and timely treatment
+are crucial for the patients' outcomes.
+
+A consensus committee has provided objective criteria for the diagnosis of ARDS, and has
+defined acute lung injury (ALI) as a less severe form of ARDS[5]. In 1994, the American-European Consensus Conference on
+ARDS set the criteria for the diagnosis of ALI and ARDS[6]. Both ALI and ARDS were characterized by an acute onset,
+bilateral pulmonary infiltrations on chest X-ray and pulmonary wedge pressure <18
+mmHg. The only differential criterion for both disorders was arterial oxygen tension
+(PaO2)/fractional inspired oxygen (FiO2) <300 mmHg in ALI,
+but PaO2/FiO2 <200 mmHg in ARDS. In 2012, the Berlin Definition
+was developed, focusing on feasibility, reliability, validity and objective evaluation
+of the performances. ARDS was classified into 3 levels based on degree of hypoxemia:
+mild (200 mmHg < PaO2/FiO2 ≤300 mmHg) moderate (100 mmHg
+<PaO2/FiO2 ≤200 mmHg) and severe
+(PaO2/FiO2 ≤100 mmHg); and 4 ancillary variables for severe
+ARDS: radiographic severity, respiratory system compliance (≤40 mL/cmH2O),
+positive end-expiratory pressure (≥10 cmH2O) and corrected expired volume per
+minute (≥10 L/min)[7]. The pulmonary
+inflammatory responses subsequent to CPB mostly result in subclinical symptoms, but may
+lead to major organ dysfunction and multiple organ failure including ARDS in only 2% of
+the patients[4]. In spite of rarity,
+ALI/ARDS remains the important cause leading to patients' death[8]. CPB may be of considerable pulmonary
+pathophysiological consequences in terms of the alveolar-arterial oxygenation gradient
+[P(A-a)O2], intrapulmonary shunt, degree of pulmonary edema, pulmonary
+compliance and pulmonary vascular resistance, and may eventually lead to pulmonary
+dysfunction[7]. The respiratory
+dysfunction can be a result of pulmonary ischemia-reperfusion injury, interstitial edema
+and impaired microcirculation induced by CPB with activated cytokines, enhanced reactive
+oxygen species and reduced endogenous nitric oxide production[9,10]. At present,
+the underlying mechanisms of postoperative ALI/ARDS still remain uncertain and the
+pathophysiological aspects have not been comprehensively stated. A better understanding
+of the pathophysiology and roles of inflammatory mediators in the development of the
+syndrome is imperative in the determination of therapeutic options and promotion of
+patients' prognosis and survival[11].
+This article aims to highlight postperfusion lung syndrome in terms of the pertinent
+pathophysiological changes, mechanisms and risk factors as well as the potentially
+effective management and preventive strategies.
+
+Both ARDS and postperfusion lung syndrome have similar mechanisms of triggering
+inflammatory processes. They also share similar clinical features, diagnostic approaches
+and management strategies. However, their etiologies and predisposing risk factors
+differ between each other. As the pulmonary pathologies are more severe in the patients
+with postperfusion lung syndrome, the prognosis of these patients are always poorer than
+those with ARDS. The multiple organ failure rate was likely to be higher in the patients
+with postperfusion lung syndrome than with ARDS. Ge et al.[12] reported 15 patients with ARDS, the extrapulmonary
+organ failure involving 0, 1, 2 and 3 organs were found in 20% (3/15), 20% (3/15), 26.7%
+(4/15) and 33.3% (5/15) patients, respectively with the heart being the most involved
+organ followed by kidney, digestive tract, central nervous system, hematological system
+and liver. The mortalities were respectively 0% (0/3), 33.3% (1/3), 50% (2/4) and 100%
+(5/5) with an overall mortality of 53.3% (8/15). The major similarities and differences
+between the two syndromes are listed in Table
+1.
+
+Major differentiations between acute respiratory distress syndrome and
+postperfusion lung syndrome.
+
+CPB=cardiopulmonary bypass
+
+PaO2/FiO2, PaO2 and arterial/alveolar oxygen
+tension ratio [P(A/a)O2] are all simple and noninvasive indicators of
+pulmonary gas exchange impairment. PaO2 is easily influenced by
+mechanical ventilation and FiO2 and also influenced by geographic
+diversity and patient's age. As PaO2 decreases in all types of
+respiratory failure, it cannot reflect the actual respiratory function and may
+therefore be less reliable, but leading to a delayed diagnosis if taken for an
+early diagnosis of ARDS[17].
+P(A-a)O2 is an indicator of gas exchange (oxygen intake) impairment.
+Increase of P(A-a)O2 mean deficiency of gas exchange and is likely to
+be more sensitive than the decrease of PaO2. As P(A-a)O2 is
+affected by FiO2, its use in patients with oxygen therapy is limited.
+It is also affected by patient's age, position, cardiac output, oxygen
+dissociation curve and closing capacity. PaO2/FiO2, also
+termed as oxygenation index, shows a good correlation with intrapulmonary
+shunting, and can better reflect anoxia even in the condition of oxygen therapy.
+PaO2/FiO2 is affected by methods of oxygen supply and
+oxygen concentration, and hence it is an indicator of impairments of the pulmonary
+vascular beds and alveoli, irrelevant to extrapulmonary organ failure[18].
+
+Respiratory index (RI) is the ratio of P(A-a)O2 to PaO2,
+less affected by ventilation method or FiO2. Therefore, it may reflect
+the actual pulmonary function and is helpful in the early diagnosis of ARDS. The
+normal range of RI is 0.1-0.3. RI ≥2.5 represents a high risk for the development
+of ARDS, and RI ≥3.0 is a diagnostic indicator of ARDS[19]. RI <2.5 as shown in daily repeated blood-gas
+analysis can be an indicator for safe extubation[20]. ARDS patients with sustained RI elevation may
+eventually develop multiple organ failure[21].
+
+Type II cells are thicker, square-shaped cells and their main function is to
+produce surfactant. Surfactant plays an essential role in preventing the alveoli
+from collapsing. Increase in capillary endothelial and/or alveolar epithelial
+permeability and pulmonary surfactant deficiency from type II cell impairment may
+inevitably result in pulmonary compliance reduction. The inflammatory process and
+alveolar flooding lead to severe ventilation-perfusion mismatch and intrapulmonary
+shunt, which are manifested clinically as severe hypoxia with a decrease in the
+PaO2/FiO2 ratio. Generally, with a marked reduction in
+lung compliance, the work of breathing and the physiologic dead space increase.
+Mechanical ventilation may reverse hypoxemia of ALI and prevent from developing
+into ARDS. However, airway injury and hypokinemia may occur under the treatment of
+a high positive end-expiratory pressure (PEEP) and positive pressure support. This
+may in turn worsen the systemic inflammatory reactions and lead to extrapulmonary
+organ dysfunction or failure[22]. With increasing PEEP, PaO2/FiO2 increases
+and static lung compliance stabilizes. However, a 20-cmH2O PEEP can be
+a turning point of PaO2/FiO2 and static lung compliance
+fall[23].
+
+Clinical studies revealed close positive correlations between PEEP, cardiac output
+or peak pressure of airway and PaO2/FiO2, and weak
+correlations between PaO2/FiO2 and oxygen supply or static
+lung compliance (Figure 1)[23]. Pulmonary dynamic compliance and
+oxygenation index correlated significantly in ARDS patients irrespective of
+patients' outcome (Figure 2)[24]. In ALI models, RI correlated
+positively, but PaO2/FiO2 correlated negatively to plasma
+soluble intercellular adhesion molecule-1, showing a significant correlation in
+the experimental other than in the control group (Figure 3)[25].
+
+Linear correlations between respiratory mechanics and
+PaO2/FiO2
+[23].
+
+PaO2/FiO2=arterial oxygen tension/fractional inspired
+oxygen; PEEP=positive end-expiratory pressure
+
+Linear correlations between pulmonary dynamic compliance and oxygenation
+index in patients with acute respiratory distress syndrome[24]. Upper panel=cured
+patients; Lower panel=dead patients.
+PaO2/FiO2=arterial oxygen tension/fractional inspired
+oxygen
+
+Linear correlations between soluble intercellular adhesion molecule-1 and
+respiratory index or PaO2/FiO2
+[25]. Left panel=control
+group; Right panel=experimental group with intercellular adhesion molecule-1
+antibody 2 mg/kg was given to the rabbit;
+PaO2/FiO2=arterial oxygen tension/ fractional inspired
+oxygen; ICAM=intercellular adhesion molecule
+
+Extravascular lung water is the fluid distributed beyond the pulmonary vessels. It
+is composed of intracellular, intra-alveolar and alveolar interstitial fluid.
+Little intracellular fluid change stands out the effects of intra-alveolar and
+alveolar interstitial fluid in the formation of pulmonary edema. Increase of
+extravascular lung water is a prominent feature of ARDS and the actual reason for
+refractory hypoxemia. Clinically, extravascular lung water index (EVLWI) is an
+indicator for the description of extravascular lung water. The normal range of
+EVLWI is 3.0-7.0 mL/kg. An EVLWI >7.0 mL/kg suggests the presence of pulmonary
+edema[26]. Extravascular
+lung water positively correlated with lung injury severity and oxygenation but
+negatively correlated pulmonary compliance[27]. Stratified analysis illustrated a strong negative
+correlation between EVLWI and PaO2/FiO2 when EVLWI ≥12 mL/kg
+and also a strong negative correlation between pulmonary vascular permeability
+index and PaO2/FiO2 when pulmonary vascular permeability
+index ≥5[28]. Kushimoto et
+al.[29] found, in a
+multicenter retrospective study, that the severity of ARDS closely correlated with
+increase of EVLWI and pulmonary vascular permeability index. A report also
+stressed on that EVLWI may be associated with severity of ARDS, ventilation
+duration, Intensive Care Unit stay and mortality[30]. EVLWI is therefore a useful tool for the
+evaluation of pulmonary function, superior to PaO2/FiO2 and
+chest roentgenogram.
+
+The major etiology of hypoxia in ARDS patients is functional intrapulmonary
+shunting. A pulmonary shunt is a condition of ventilation-perfusion mismatch with
+normal blood perfusion but insufficient ventilation of the lungs. Intrapulmonary
+shunting has a close relation negative to PaO2/FiO2, but
+positive to P(A-a)O2
+[31], and is also affected by
+pulmonary artery wedge pressure and cardiac index[32]. Normally, pulmonary shunt is 2-5%[33]. The intrapulmonary shunt is
+optimal in assessing the severity of hypoxemia. An intrapulmonary shunt <15% as
+well as P(A-a)O2 difference <75 mmHg is helpful for the exclusion of
+ARDS[34]. A shunt of
+10-19% usually does not need ventilation support; whereas a shunt of 20-29% can be
+a fatal sign in patients with impaired cardiac function, and a shunt >30%
+requires circulatory support[35]. In normal subjects and experimental animals with ARDS, PEEP did
+not alter the distribution of blood flow; the apparent perfusion ratio remained
+constant when PEEP was increased from 5 to 10 cmH2O[36]. However, when a positive
+end-expiratory plateau was added to intermittent positive pressure ventilation,
+intrapulmonary shunting may decrease and the disrupted surfactant production may
+take into action[37].
+
+In the early stage of ARDS, respiratory alkalosis is the most common type of
+acid-base imbalance followed by metabolic acidosis and combined respiratory
+alkalosis and metabolic alkalosis. In its late stage, patients may develop
+respiratory acidosis, respiratory acidosis associated with metabolic acidosis and
+even triple acid-base imbalance. The triple acid-base imbalance can be a
+respiratory alkalosis or a respiratory acidosis type. The respiratory alkalosis
+type is respiratory alkalosis associated with metabolic acidosis and metabolic
+alkalosis, which is often developed from uncorrected primary respiratory
+alkalosis, while using diuretics and glucocorticoids (for metabolic alkalosis), or
+in the presence of severe hypoxia, renal dysfunction, or shock (for metabolic
+acidosis) and electrolyte imbalance (hypokalemia, normal or high blood chloride,
+and normal or reduced blood sodium). Patients with this type triple acid-base
+imbalance are often with a poor outcome[38].
+
+The respiratory acidosis type triple acid-base imbalance is respiratory acidosis
+associated with metabolic acidosis and metabolic alkalosis, which is less common
+but may occur in the condition of reduced ventilation and carbon dioxide
+retention, often associated with normal or high blood potassium and normal or
+reduced blood chloride and sodium [38].
+
+The exact mechanism of postperfusion lung syndrome remains uncertain, but it may
+probably be due to the inflammatory cascade induced by contact between blood and CPB
+circuit and the subsequent activations of leukocytes, platelets, coagulation and
+fibrinolysis system and kallikrein-bradykinin and complement system. After crossclamp
+removal, joint actions of protease release by leukocytes in the pulmonary vascular beds,
+production of oxygen free radicals and intestinal endotoxin translocation lead to
+increased pulmonary microvascular permeability, microthrombus formation in the pulmonary
+vessels and the quality and quantity changes of pulmonary surfactant predispose to the
+development of postperfusion lung syndrome[39]. The significant complement activation and organ neutrophil
+sequestration contribute to vascular injury, and hence patients undergoing cardiac
+operation under CPB showed increased circulating endotoxin and tumor necrosis factor
+(TNF) levels[40,41].
+
+Alveolar macrophages are prone to be activated, releasing many inflammatory mediators
+including TNF-α, interleukin (IL)-6 and IL-8 and superoxide dismutase, etc., and
+damaging vascular endothelium and alveolar epithelium, thus making the lungs being the
+first target organ of insult. TNF-α and IL-6 may cause direct lung injury effects by
+inducing early inflammatory reactions, releasing toxic products and increasing pulmonary
+permeability[42]. In the lung,
+TNF-α is generated by activated pulmonary macrophages and accumulates in the
+bronchoalveolar lavage fluid of ALI patients[43]. The pathogenesis of TNF-α with receptors in neutrophil
+activation and infiltration of lung injury remain unclear. However, it has been noted
+that neutrophil accumulation and lung leak were abrogated in mice lacking the p55 TNF-α
+receptor[44]. TNF-α also
+stimulates the adhesions of the endothelial cells and neutrophils, and impacts a toxic
+effect by release of proteases, oxygen free radicals and superoxide dismutase.
+Productions of ILs including ILs-1, -2, -6 and -8 would be increased by stimulations of
+mon-macrocytes strengthening the lung injury. Accordingly, an early appearance of TNF-α
+may herald the development of ARDS and the synthesis and secretion of ILs.
+
+Both direct and indirect lung injuries can be predisposing risk factors leading to ARDS.
+Surgical trauma and CPB are among indirect risk factors[13]. Christenson et al.[2] reported insufficient perfusion of visceral organs
+caused by low output syndrome and prolonged hypotension might be responsible for the
+development of postperfusion lung syndrome. Rady et al.[45] observed that early postoperative pulmonary dysfunction
+was associated with preoperative (age ≥75 years, body mass index ≥ 30 kg/m2,
+mean pulmonary arterial pressure ≥ 20 mmHg, stroke volume index ≥30 mL/m2,
+serum albumin and history of cerebral vascular disease), operative (emergency surgery
+and CPB duration ≥140 min) and postoperative variables (hematocrit ≥30%, mean arterial
+pressure ≥90 mmHg and cardiac index ≥3.0 L/min/m2). Besides, preoperative
+cardiac function impairment, bloodstream infection, prolonged crossclamp and operation
+durations, hypotension episodes and hypogammaglobulinemia can be risk factors of
+postperfusion lung syndrome[46].
+
+Apostolakis et al.[47] summarized
+preventive strategies for operative lung injury, which included choices of CPB circuit
+(use of miniaturized circuits of CPB and circuit with biocompatible surfaces
+ultrafiltration) and apparatus (leukocyte depletion filters and ultrafiltration),
+innovative CPB techniques (partial restoration of pulmonary artery perfusion during
+CPB), modified surgical maneuvers (reducing the use of cardiotomy suction device and
+reducing the contact-time between free blood and pericardium) and medicinal agents
+(corticosteroids and aprotinin) as preventive strategies for ALI during CPB, which were
+proved to be of satisfactory outcomes on improving the lung function. Moreover,
+hyperonocotic CPB-prime with hydroxyethyl starch 10% (200:0.5) may improve cardiac
+function and reduce pulmonary water content in the early postoperative period[48]. Studies have shown that Travenol
+bubble oxygenator was associated with significant increases of EVLWI and pulmonary
+vascular resistance and greater blood component trauma than the membrane[49], and bubble oxygenators caused more
+leukocyte sequestrations[50]. Care has
+to be taken with choice of oxygenator in risky patients.
+
+Mechanical ventilation remains the primary support technique for ARDS. New
+ventilation strategies, such as high-frequency oscillatory ventilation appear to be
+promising[51]. However, in
+patients with ALI/ARDS, mechanical ventilation with a lower tidal volume (6 mL/kg)
+than is traditionally used[52]. Low
+tidal volume ventilation reduces volutrauma, and is the standard care for ARDS
+patients with mechanical ventilation. A strategy of low tidal volume ventilation of
+6-8 mL/kg reduces absolute mortality by about 7-9% in comparison to using ≥10 mL/kg
+tidal volumes. Mechanically ventilated patients with ARDS appear to tolerate very low
+blood pH and very high carbon dioxide partial pressure without any adverse sequelae.
+Based on this theory, permissive hypercapnia can be attempted in ARDS patients in
+order to achieve normal blood gas values.
+
+Adequate PEEP levels avoid alveolar collapse and maintain sufficient pulmonary volume
+at the end of expiration. Excessive PEEP increases the risk of pneumothorax and
+airway impairment, causing adverse hemodynamic effects by increasing intra-thoracic
+pressure and reducing venous return. Meanwhile, inadequately low PEEP level provokes
+cyclic alveolar collapse and re-opening, resulting in atelectrauma[51]. Most ventilation modes used in ARDS
+are those cycled by time and controlled by volume or pressure. In ARDS patients
+randomized to high frequency oscillatory ventilation, mortality was significantly
+reduced and so was the treatment failure rate comparing to conventional
+ventilation[53]. Recruitment
+is a strategy aimed at re-expanding collapsed lung tissue, and then maintaining high
+PEEP to prevent subsequent "de-recruitment". Various ventilation modes such as
+inverse ratio pressure-controlled ventilation, airway-pressure release ventilation
+and even high-frequency oscillatory ventilation have been used to promote
+recruitment[54].
+
+Prone positioning improves gas exchange and has long been used as an adjunct or
+salvage therapy for severe or refractory ARDS. A strategy employing higher PEEP along
+with low tidal volume ventilation should be considered for ARDS patients receiving
+mechanical ventilation. ARDS patients receiving higher PEEP had a strong trend toward
+improved survival. However, higher PEEP had a strong trend toward harm as higher PEEP
+can conceivably cause ventilator-induced lung injury by increasing plateau pressures,
+or cause pneumothorax or decreased cardiac output[55].
+
+Surfactant therapy has shown beneficial effects on oxygenation and survival of
+children with ALI/ARDS, however, no effect or even adverse effects of exogenous
+surfactant has been shown on survival in adult patients[56-58].
+Instillation of a natural lung surfactant (calfactant) contains high levels of
+surfactant-specific protein B. Calfactant (2 doses of 80 mL/m2
+calfactant, 12 hours apart) acutely improved oxygenation and significantly
+decreased mortality in infants, children and adolescents with ALI[59].
+
+Nitric oxide is a powerful endogenous vasodilator. A placebo-controlled study
+demonstrated that the ARDS patients receiving 5 ppm inhaled nitric oxide showed
+significantly improved oxygenation parameters with better survival comparing with
+placebo[60]. Some authors
+suspected the role of inhaled nitric oxide in ARDS. They found by incorporating
+the results of 14 randomized clinical trials that inhaled nitric oxide resulted in
+a transient improvement in oxygenation without reducing mortality but was probably
+harmful[61]. Therefore
+physicians have to take care when using this agent for ARDS.
+
+Prostaglandins are endogenous derivatives of arachidonic acid with properties of
+vasodilation, platelet aggregation inhibition and anti-inflammation. Inhaled
+prostacyclins cause selective pulmonary vasodilation, thereby enhancing lung
+function by improving ventilation-perfusion mismatch and oxygenation and by
+reducing pulmonary vascular resistance[62]. Inhaled prostaglandin E2 had a comparable
+effect to nitric oxide on pulmonary vasculature and oxygenation with minimal
+systemic effects[62]. Continuous
+infusion of prostaglandin E1 may induce oxygen delivery and obtain
+better tissue oxygenation, while increasing cardiac output[63]. Prostacyclin is also a promising
+vasodilator in decreasing pulmonary artery pressure and improving
+PaO2/FiO2
+[64], but it may cause
+compromised hemodynamics[65].
+
+Glucocorticoids can reduce inflammation and fibrosis through inhibition of several
+cytokines including ILs-1, -3, -5, -6 and -8, TNF-α and granulocyte
+macrophage-colony stimulating factor[66]. Lisofylline, like pentoxifylline, has been shown to
+diminish proinflammatory cytokine expressions of TNF-α, IL-1 and IL-6 and to
+inhibit neutrophil accumulation and edema formation. Unlike pentoxifylline,
+lysofylline partly exerts its anti-inflammatory properties by inhibiting the
+release of oxidized free fatty acids from cell membranes under oxidative
+stress[62].
+
+High-mobility group box 1 (HMGB1) is a critical mediator in the pathogenesis of
+many inflammatory diseases. Penehyclidine hydrochloride inhibits the translocation
+of release of HMGB1 from the nucleus to the cytoplasm and the expression of HMGB1
+messenger ribonucleic acid in a dose-dependent manner[66]. Administration of penehyclidine hydrochloride
+reduces lung water gain, bronchoalveolar lavage protein content, infiltration of
+neutrophils, malondialdehyde content and lactate dehydrogenase activity and
+enhances superoxide dismutase activity[67]. Penehyclidine hydrochloride also significantly reduces
+P(A-a)O2 and RI as well as TNF-α and IL-6 of lung injury, and both
+RI and P(A-a)O2 shows a close correlation with TNF-α and IL-6 (Figure 4)[68]. Ulinastatin decreases free radical productions, lowers
+ratio of physiological dead space to tidal volume and improves respiratory
+function after CPB[69].
+Induction of anesthesia with ulinastatin 10,000 units/kg inhibits the excessive
+release of serum HMGB1, TNF-α and IL-8 concentrations[70]. Ulinastatin was shown in a systematic review to
+have a significant effect on improving oxygenation and shortening the length of
+Intensive Care Unit stay[71].
+The large dose of propofol (15 mg/kg/hour) attenuated lung leukocyte
+sequestration, pulmonary edema and pulmonary hyperpermeability and resulted in
+better oxygenation, lung mechanics and histological changes; while the small dose
+(4 mg/kg/hour) did not, in endotoxin-induced ALI rabbit model[72]. Treatment with propofol by
+intravenous infusion (6 mg/kg/min for 5 min) abrogated or reversed the oleic
+acid-induced ALI changes in rats[73]. However, the use of propafol may induce ALI in particular in
+the presence of an increased alveolar-capillary permeability, which allowed the
+propofol emulsion to leak into the alveoli[74].
+
+Linear correlations between tumor necrosis factor-α or interleukin-6 and
+respiratory index or P(A-a)O2
+[68]. Left panel=control
+group; Right panel=penehyclidine hydrochloride; P(A-a)O2:
+alveolar-arterial oxygen pressure difference.
+
+Studies have suggested activation of adenosine receptors may enhance alveolar
+fluid clearance and regulate the fluid transport in the lung. The adenosine 2A
+receptor agonist GW328267C improves lung function of ALI rats[75]. A randomized clinical trial of
+simvastatin in ALI patients revealed the simvastatin-treated group had
+improvements in nonpulmonary organ dysfunction on day 14 of treatment. Simvastatin
+was well tolerated, with no increase in adverse events. Simvastatin improved
+oxygenation and respiratory mechanics, and decreased bronchoalveolar lavage IL-8
+by 2.5-fold[76]. Experimental
+studies on rats revealed that endothelin-1 inhibited alveolar fluid clearance by
+inhibition of amiloride-sensitive epithelial Na+ channels. Endothelin-1
+may increase capillary pressure and contribute to pulmonary edema
+formation[77]. The
+endothelin-1 receptor subtype blockers significantly prevented the pulmonary
+vasoconstriction induced by endothelin-1[78]. Atrial natriuretic peptide had a protective effect in the
+lipopolysaccharide-induced ALI model[79]. H2 treatment markedly attenuated
+lipopolysaccharide-induced lung neutrophil recruitment and inflammation and
+intraperitoneal injection of 10 mL/kg hydrogen-rich saline also significantly
+attenuated the lipopolysaccharide-induced ALI[80].
+
+ECMO is a therapeutic option for patients with severe ARDS. The indications for ECMO
+use in ARDS patients are failed conventional therapy for 24-96 hours and the
+conformity of two of the three required slow-entry criteria for ECMO including
+PaO2/FiO2 <150 mmHg at PEEP >5 cmH2O,
+semistatic compliance <30 mL/cmH2O and right-left shunt >30%. Only
+in the patients with life-threatening hypoxemia (PaO2<50 mmHg at
+FiO2 1.0 and PEEP>5 cmH2O for>2 hours (fast-entry
+criteria) is immediate ECMO commenced[81]. Mols et al.[82] reported one-quarter of their 245 ARDS patients received ECMO
+treatment. The survival rate was 55% in ECMO patients and 61% in non-ECMO patients.
+However, the role of ECMO in the treatment of ARDS is controversial[83]. In neonates treated with ECMO, a
+survival rate of 80% was achieved. In adult patients with ARDS, two randomized
+controlled trials revealed the survival rates were 10% and 33%, respectively, in the
+ECMO groups[84]. Meta-analysis of 9
+studies on a total of 1,058 patients with 386 of them treated with ECMO revealed ECMO
+increased the mortality of ARDS patients. Therefore, it seems that ECMO is not
+beneficial in adult patients with ARDS as in neonates[85].
+
+Postperfusion lung syndrome is rare but can be refractory. Both ARDS and postperfusion
+lung syndrome have similar mechanisms of triggering inflammatory processes. They also
+share similar clinical features, diagnostic approaches and management strategies.
+However, their etiologies and predisposing risk factors differ between each other.
+Inflammatory cascade induced by CPB has been an acceptable mechanical hypothesis. The
+prognosis of the postperfusion lung syndrome can be poorer than that of the ARDS. The
+potential sequelea of postperfusion lung syndrome such as multiple organ failure and
+triple acid-base imbalance can be the principle causes of poor outcome rather than the
+lung disorder itself. Choices of CPB circuit and apparatus, innovative CPB techniques,
+modified surgical maneuvers and some medicinal agents can be potential preventive
+strategies for ALI during CPB. Mechanical ventilation (with low tidal volume and proper
+PEEP), pharmaceutical agents and ECMO can be therapeutic options of postperfusion lung
+syndrome. With the mature therapeutic options, the survival rate of the patients with
+postperfusion lung syndrome and ARDS would be further improved.
