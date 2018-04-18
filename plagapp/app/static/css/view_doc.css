@@ -3,13 +3,23 @@ Help from: http://coderguy.com/2013/06/18/twitter-bootstrap-affix-nav-tutorial.h
 */
 
 .affix {
-  width: inherit; 
+  width: inherit;
   position: fixed;
-  top: 50px;  
+  top: 50px;
 }
+
 .affix-bottom {
   width: inherit;
   position: absolute;
   top: auto;
-  bottom: 200px;  
+  bottom: 200px;
+}
+
+div.table-responsive {
+  overflow-x: auto;
+}
+
+.panel-body {
+  max-height: 500px;
+  overflow-y: scroll;
 }

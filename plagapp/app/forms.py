@@ -1,6 +1,6 @@
 from app import app
 import os
-from .util import get_file_short_names, get_folder_names, get_sent_feature_options, get_word_feature_options, get_para_feature_options, get_cluster_options, get_similarity_options, get_atom_options
+from .util import get_file_short_names, get_sent_feature_options, get_word_feature_options, get_para_feature_options, get_cluster_options, get_similarity_options, get_atom_options
 
 from flask_wtf import Form
 from wtforms import SelectField, SelectMultipleField, RadioField
@@ -29,7 +29,3 @@ class PlagSelection(Form):
 
     k_options = [2, 3, 4, 5]
     k = SelectField('k', choices=list(zip(k_options, k_options)), coerce=int)
-
-class PlagSelection4folder(Form):
-    folder_options = get_folder_names()
-    folder_name = SelectField('Folder Name', choices=folder_options)

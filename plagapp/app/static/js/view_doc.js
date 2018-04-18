@@ -1,8 +1,8 @@
-
-$(document).ready(function() {
+$(document).ready(function () {
 
     var lastClicked;
     var flag;
+
     function updateFeatureBox(text) {
         $('#feature_box').html(text);
     };
@@ -20,24 +20,14 @@ $(document).ready(function() {
     }
 
     affixWidth();
-    flag=0;
-    $('.passage').click(function() {
+    flag = 0;
+    $('.passage').click(function () {
         // Highlight the clicked passage
-        if(lastClicked != undefined) {
-        if(flag==1) {
-            lastClicked.css('color', color);
-            flag=0;
-            }
-        else{
+        if (lastClicked) {
             lastClicked.css('color', 'black');
-            }
         }
-        var color = $(this).css("color")
-        if(color != 'black' && color != 'red') { flag=1; }
-
         $(this).css('color', 'red');
         lastClicked = $(this);
-
         updateFeatureBox($(this).attr('features'));
     });
 

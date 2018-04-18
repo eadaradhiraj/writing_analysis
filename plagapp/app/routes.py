@@ -4,7 +4,7 @@ from flask import render_template, redirect, jsonify, request, url_for
 import sys
 import os, csv, json
 
-from .forms import PlagSelection, PlagSelection4folder
+from .forms import PlagSelection
 from .plag_detector import PlagDetector
 from .util import *
 
