@@ -4,7 +4,7 @@
 <link href="/static/css/view_doc.css" rel="stylesheet" media="screen">
 <script src="/static/js/popover.js"></script>
 <script src="/static/js/tooltip.js"></script>
-<script src="/static/js/view_doc.js"></script>
+<!-- <script src="/static/js/view_doc.js"></script> -->
 <script src="/static/js/jquery.js"></script>
 <script src="/static/js/highcharts.js"></script>
 {% endblock further_head %}
@@ -74,13 +74,8 @@
                     <div class="panel-body" id="document_content">
                         <p>
                             {% for passage in passages %}
-                            {% if passage.plag_confidence > 0.85 %}
-                        <div class="passage" features="{{ passage.to_html() }}"
-                             style="font-size:14px;display:inline;color:rgb(0,0,255);">
-                            {{ passage.format_text_with_underlines()|safe }}
-                        </div>
-                        {% endif %}
-                        <div class="passage" features="{{ passage.to_html() }}" style="font-size:14px;display:inline;;color:rgb(0,0,0);">
+                            
+                        <div class="passage" id="pass{{loop.index}}" features="{{ passage.to_html() }}" style="font-size:14px;display:inline;;color:rgb(0,0,0);">
                             {{ passage.format_text_with_underlines()|safe }}
                         </div>
                         {% if atom_type == 'paragraph' %}
@@ -121,18 +116,39 @@ function contains(a, obj) {
        }
     }
     return false;
-};
+}
+var lastClicked;
 plag_cats = {{ plag_cats|safe }};
 function updateFeatureBox(text) {
         $('#feature_box').html(text);
     };
-var points = [{% for passage in passages %}"{{ passage.char_index_start }}"{% if not loop.last %},{% endif %}{% endfor %}];
+    function affixWidth() {
+        // Using an affix messes with the width/styling of 
+        // the sidebar -- this makes sure that the panel maintains
+        // its proper width
+        // Thanks to:
+        // https://github.com/twbs/bootstrap/issues/6350#issuecomment-16069663
+        // for the fix
+        var affix = $('#feature_panel');
+        var width = affix.width();
+        affix.width(width);
+    }
+    $('.passage').click(function () {
+        // Highlight the clicked passage
+        if (lastClicked) {
+            lastClicked.css('color', 'black');
+        }
+        $(this).css('color', 'red');
+        lastClicked = $(this);
+        updateFeatureBox($(this).attr('features'));
+    });
+var points = [{% for passage in passages %}"{{ loop.index }}"{% if not loop.last %},{% endif %}{% endfor %}];
 	$(document).ready(function() {
 				$('#chart').highcharts({
 		chart: {{ chart|safe }},
 		title: {{ title|safe }},
 
-        xAxis:{categories: {{ categories|safe }},labels:{
+        xAxis:{categories: points ,labels:{
             formatter: function(){
                 if(contains(plag_cats,this.value)) {
                     return '<span style="fill: red;">' + this.value + '</span>';
@@ -157,6 +173,13 @@ var points = [{% for passage in passages %}"{{ passage.char_index_start }}"{% if
                         var a = points.indexOf(this.category);
                         var txt = document.getElementsByClassName("passage")[a].getAttribute("features");
                         updateFeatureBox(txt);
+                        
+                        document.getElementById("pass"+this.category).scrollIntoView()
+                        if (lastClicked) {
+            lastClicked.css('color', 'black');
+        }
+        $("div#pass"+this.category+".passage").css('color', 'red');
+        lastClicked = $("div#pass"+this.category+".passage");
                         }
                     }
                 }
