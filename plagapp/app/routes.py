@@ -42,18 +42,9 @@ def view_doc():
 
     all_passages = PlagDetector().get_passages(atom_type, features, cluster_method, k, full_path)
     feature_names = list(all_passages[0].features.keys())
-
-    chartID = 'chart'; chart_type = 'line'; chart_height = 350
-    chart = {"renderTo": chartID, "type": chart_type, "height": chart_height, 'zoomType': 'x', 'panning': 'true', 'panKey': 'shift'}
-    series=[]
-    # for feature in features:
-    #     series.append({'name': str(feature), 'data': [passage.features[feature] for passage in all_passages]})
-    series.append({"name": 'Plag. Conf.', 'data': [passage.plag_confidence for passage in all_passages]})
     title = {"text": str(doc_name)}
-    #xAxis = {"categories": [str(passage.char_index_start) for passage in all_passages]}
-    categories= [str(passage.char_index_start) for passage in all_passages]
     plag_cats =[str(passage.plag_spans[0][0]) for passage in all_passages if passage.plag_spans]
-    yAxis = {"title": {"text": 'Confidence Score'}}
+    data_d3_chart = [{"idx": passage.char_index_start, "conf": passage.plag_confidence} for passage in all_passages]
 
     return render_template('view_doc.html',
         atom_type = atom_type,
@@ -62,7 +53,9 @@ def view_doc():
         passages = all_passages,
         features = feature_names,
         doc_name = doc_name,
-        chartID=chartID, chart=chart, series=series, title=title, categories=categories, yAxis=yAxis, plag_cats=plag_cats)
+        title=title,
+        plag_cats=plag_cats, 
+        data_d3_chart = data_d3_chart)
     
 
 #@app.route('/view_source_doc/<doc_name>', methods=['GET'])

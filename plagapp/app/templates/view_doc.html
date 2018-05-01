@@ -6,7 +6,7 @@
 <script src="/static/js/tooltip.js"></script>
 <!-- <script src="/static/js/view_doc.js"></script> -->
 <script src="/static/js/jquery.js"></script>
-<script src="/static/js/highcharts.js"></script>
+<script src="/static/js/d3.min.js"></script>
 {% endblock further_head %}
 
 {% block content %}
@@ -75,7 +75,7 @@
                         <p>
                             {% for passage in passages %}
                             
-                        <div class="passage" id="pass{{loop.index}}" features="{{ passage.to_html() }}" style="font-size:14px;display:inline;;color:rgb(0,0,0);">
+                        <div class="passage" id="pass{{passage.char_index_start}}" features="{{ passage.to_html() }}" style="font-size:14px;display:inline;;color:rgb(0,0,0);">
                             {{ passage.format_text_with_underlines()|safe }}
                         </div>
                         {% if atom_type == 'paragraph' %}
@@ -88,7 +88,10 @@
 
                 </div>
                 <br>
-                <div id='chart' style="height: 100px; width: 750px"></div>
+                <!-- <div id='chart' style="height: 100px; width: 750px"></div> -->
+                </br>
+                <br>
+                <div id='d3Chart'></div>
                 </br>
             </div>
 
@@ -118,77 +121,147 @@ function contains(a, obj) {
     return false;
 }
 var lastClicked;
-plag_cats = {{ plag_cats|safe }};
+data_d3_chart = {{ data_d3_chart|safe }};
 function updateFeatureBox(text) {
         $('#feature_box').html(text);
     };
-    function affixWidth() {
-        // Using an affix messes with the width/styling of 
-        // the sidebar -- this makes sure that the panel maintains
-        // its proper width
-        // Thanks to:
-        // https://github.com/twbs/bootstrap/issues/6350#issuecomment-16069663
-        // for the fix
-        var affix = $('#feature_panel');
-        var width = affix.width();
-        affix.width(width);
+function affixWidth() {
+    // Using an affix messes with the width/styling of 
+    // the sidebar -- this makes sure that the panel maintains
+    // its proper width
+    // Thanks to:
+    // https://github.com/twbs/bootstrap/issues/6350#issuecomment-16069663
+    // for the fix
+    var affix = $('#feature_panel');
+    var width = affix.width();
+    affix.width(width);
+}
+$('.passage').click(function () {
+    // Highlight the clicked passage
+    if (lastClicked) {
+        lastClicked.css('color', 'black');
     }
-    $('.passage').click(function () {
-        // Highlight the clicked passage
-        if (lastClicked) {
-            lastClicked.css('color', 'black');
-        }
-        $(this).css('color', 'red');
-        lastClicked = $(this);
-        updateFeatureBox($(this).attr('features'));
-    });
-var points = [{% for passage in passages %}"{{ loop.index }}"{% if not loop.last %},{% endif %}{% endfor %}];
-	$(document).ready(function() {
-				$('#chart').highcharts({
-		chart: {{ chart|safe }},
-		title: {{ title|safe }},
-
-        xAxis:{categories: points ,labels:{
-            formatter: function(){
-                if(contains(plag_cats,this.value)) {
-                    return '<span style="fill: red;">' + this.value + '</span>';
-                }
-                   else {
-                    return this.value;
-
-                    }
-                }
-            }
-        },
-
-
-		yAxis: {{ yAxis|safe }},
-		series: {{ series|safe }},
-		plotOptions: {
-            series: {
-                cursor: 'pointer',
-                point: {
-                    events: {
-                        click: function () {
-                        var a = points.indexOf(this.category);
-                        var txt = document.getElementsByClassName("passage")[a].getAttribute("features");
-                        updateFeatureBox(txt);
-                        
-                        document.getElementById("pass"+this.category).scrollIntoView()
-                        if (lastClicked) {
-            lastClicked.css('color', 'black');
-        }
-        $("div#pass"+this.category+".passage").css('color', 'red');
-        lastClicked = $("div#pass"+this.category+".passage");
-                        }
-                    }
-                }
-            }
-        }
-	});
+    $(this).css('color', 'red');
+    lastClicked = $(this);
+    updateFeatureBox($(this).attr('features'));
 });
+//var points = [{% for passage in passages %}"{{ loop.index }}"{% if not loop.last %},{% endif %}{% endfor %}];
+
+// Get the data
+var data = data_d3_chart
+
+var margin = {
+    top: 30,
+    right: 20,
+    bottom: 50,
+    left: 50
+};
+var width = 740 - margin.left - margin.right;
+var height = 370 - margin.top - margin.bottom;
+var padding = 100; 
+
+// Adds the svg canvas
+var svg = d3.select("#d3Chart")
+    .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    
+// Set the ranges
+var x = d3.scaleLinear()
+	.range([margin.left, width - margin.right])
+  .domain([0, data_d3_chart[data_d3_chart.length - 1].idx])
+
+var y = d3.scaleLinear().range([height - margin.top, margin.bottom]).domain([0, 1])
+  
+
+// Define the axes
+var xAxis = d3.axisBottom(x)
+    .tickSize(0,0) // Inner, Outer
+    .tickPadding(0);
+
+var yAxis = d3.axisLeft(y)
+    .ticks(8)
+    .tickSize(-width, 0)
+    .tickPadding(10);
+    
+svg.append("g") // Add the X Axis
+		.attr("class", "x axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(xAxis);
+
+svg.append("g") // Add the Y Axis
+	.attr("class", "y axis")
+  .call(yAxis)
+  .call(customYAxis);
+
+function customYAxis(g) {
+  g.call(yAxis);
+  g.select(".domain").remove();
+  g.selectAll(".tick line").attr("stroke", "#777").attr("stroke-dasharray", "2,2");
+}
+
+// Define the line
+var valueline = d3.line()
+  .x(function (d) {
+    return x(d.idx);
+  })
+  .y(function (d) {
+    return y(d.conf);
+  });
+
+ var tooltipDiv = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+svg.append("path") // Add the valueline path.
+	.attr("d", valueline(data));
+
+svg.selectAll("dataPoint")
+  .data(data)
+  .enter()
+  .append("circle")
+  .attr("class", "point")
+  .attr('r', 10)
+  .attr("cx", d => x(d.idx))
+  .attr('cy', d => y(d.conf))
+  .on("mouseover", function(obj) {
+      tooltipDiv.transition()
+        .duration(200)
+        .style("opacity", .9);
+      tooltipDiv.html("Index : " + obj.idx + "<br/>Conf : " + obj.conf)
+        .style("left", (d3.event.pageX) + "px")
+        .style("top", (d3.event.pageY - 28) + "px");
+    })
+  .on("mouseout", function(obj) {
+  tooltipDiv.transition()
+    .duration(500)
+    .style("opacity", 0);
+}).on("click", function (obj) {
+                      var txt = $("#pass"+obj.idx).attr("features");
+                      updateFeatureBox(txt);
+                      
+                      document.getElementById("pass"+obj.idx).scrollIntoView()
+                      if (lastClicked) {
+          lastClicked.css('color', 'black');
+      }
+      $("div#pass"+obj.idx+".passage").css('color', 'red');
+      lastClicked = $("div#pass"+obj.idx+".passage");
+                      });
+  
+svg.append("text")
+  .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+  .attr("transform", "translate("+ (width/2) +","+(height+(padding/3))+")")  // centre below axis
+  .attr("class", "axisTitle")
+  .text("Position index of text");
+
+svg.append("text")
+  .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+  .attr("transform", "translate("+ (200) +","+(100)+")")
+  .attr("class", "axisTitle")
+  .text("Confidence of Plagiarism");
 
 
 </script>
-
 {% endblock content %}

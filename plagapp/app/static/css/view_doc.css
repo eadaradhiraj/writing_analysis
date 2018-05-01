@@ -23,3 +23,39 @@ div.table-responsive {
   max-height: 500px;
   overflow-y: scroll;
 }
+body {
+  font: 12px Arial;
+}
+
+path {
+  stroke: #00bfd5;
+  stroke-width: 2;
+  fill: none;
+}
+
+.axis line {
+  fill: none;
+  stroke: grey;
+  stroke-dasharray: 2, 2;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+
+.axis path {
+  fill: none;
+  stroke-width: 0;
+}
+
+.tick text {
+fill: #888;
+}
+
+.point {
+  stroke: #00bfd5;
+  stroke-width: 2;
+  fill: #fff;
+}
+
+.axisTitle {
+fill: #888;
+}
